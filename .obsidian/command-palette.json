@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "workspace:export-pdf",
+    "editor:follow-link",
+    "workspace:split-vertical",
+    "workspace:edit-file-title",
+    "workspace:new-tab",
+    "workspace:close",
+    "app:delete-file"
+  ]
+}

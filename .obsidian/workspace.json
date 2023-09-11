@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "601e4745ac58508b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3bdb70010016922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19922b958bd412e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edf57cb0a1c074a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb258bdac0836b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2440ad62c75ab15b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0267bea12a039e80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "074bf37db2b7574d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d39d4b9f3effe94",
+    "type": "split",
+    "children": [
+      {
+        "id": "00dc8caa87b17049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1d0cfd399a89373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "135a1155b0b847c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian stuff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57eedc7b53ca157e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ac3826cc7e5f560",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian stuff.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "2440ad62c75ab15b",
+  "lastOpenFiles": [
+    "History/Storia Capitoli 20 - 21.md",
+    "IT/Nesting Structures.md",
+    "IT/Ripasso Informatica 3->4.md",
+    "11-09-23.md",
+    "Obsidian stuff.md",
+    "TPSIT/Programma TPSIT.md",
+    "History/Richelieu e Mazzarino.md",
+    "Untitled.canvas",
+    "guerra dei trent'anni.md",
+    "Wed 06 September 21.09.md",
+    "TPSIT",
+    "Untitled",
+    "Systems and Networks",
+    "IT",
+    "Maths",
+    "Italian",
+    "History",
+    "2023-09-06.md"
+  ]
+}
