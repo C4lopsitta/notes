@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian stuff.md"
+                "file": "TPSIT/Programma TPSIT.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Obsidian stuff.md"
+                "file": "TPSIT/Programma TPSIT.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2440ad62c75ab15b",
+  "active": "cfd4b2a00441402e",
   "lastOpenFiles": [
-    "TPSIT/Programma TPSIT.md",
     "Obsidian stuff.md",
+    "TPSIT/Programma TPSIT.md",
     "Untitled.md",
     "IT/Ripasso Informatica 3->4.md",
     "IT/Nesting Structures.md",
