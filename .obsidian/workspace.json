@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian stuff.md"
+                "file": "TPSIT/Programma TPSIT.md"
               }
             }
           }
@@ -149,20 +149,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2440ad62c75ab15b",
+  "active": "b19922b958bd412e",
   "lastOpenFiles": [
-    "History/Storia Capitoli 20 - 21.md",
-    "IT/Nesting Structures.md",
     "IT/Ripasso Informatica 3->4.md",
-    "11-09-23.md",
+    "IT/Nesting Structures.md",
+    "Template/dsoj.md",
     "Obsidian stuff.md",
+    "Untitled",
+    "Template",
+    "Untitled.md",
+    "Recording 20230911153111.webm",
+    "History/Storia Capitoli 20 - 21.md",
+    "11-09-23.md",
     "TPSIT/Programma TPSIT.md",
     "History/Richelieu e Mazzarino.md",
     "Untitled.canvas",
     "guerra dei trent'anni.md",
     "Wed 06 September 21.09.md",
     "TPSIT",
-    "Untitled",
     "Systems and Networks",
     "IT",
     "Maths",
