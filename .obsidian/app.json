@@ -1,7 +1,7 @@
 {
   "tabSize": 3,
   "vimMode": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

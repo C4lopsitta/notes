@@ -1,0 +1,1 @@
+C++ is an object oriented high-level language that is a superset, so an extension, of [[The C programming language|C]]. It adds classes, new standard libraries and many hated features.

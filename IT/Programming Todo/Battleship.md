@@ -1,5 +1,8 @@
+# Program specifics
+Written in [[The C programming language|C]]
+
 # To do
-- [ ] Add threads to application
+- [ ] Add [[Programma TPSIT|threads]] to application
 - [ ] Make I/O thread for Keyboard reading from native device file
 > [!NOTE]- How i wanna make this
 > **Function set to implement**
@@ -13,5 +16,5 @@
 > 	- Registering those keystrokes with an appropriate function
 > - Reading modifier keystrokes
 > - Reading keystrokes combinations
-- [ ] Add sockets for multiplayer on local network
+- [ ] Add [[Sockets]] for multiplayer on local network
 - [ ] Add harder AI

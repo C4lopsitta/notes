@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8de5fac450cfacfa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -157,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,15 +181,19 @@
   },
   "active": "a3b4314c116a26ad",
   "lastOpenFiles": [
-    "IT/Object Oriented Programming common practices.md",
+    "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming.md",
-    "IT/Programming Todo/Battleship.md",
-    "IT/Ripasso Informatica 3->4.md",
-    "Obsidian stuff.md",
-    "Systems and Networks/September 12.md",
     "History/Storia Capitoli 20 - 21.md",
-    "History/Richelieu e Mazzarino.md",
+    "IT/Programming Todo/Battleship.md",
+    "IT/Language specific notes/C++.md",
+    "IT/Object Oriented Programming common practices.md",
+    "IT/Language specific notes",
     "TPSIT/Programma TPSIT.md",
+    "Obsidian stuff.md",
+    "Systems and Networks/Routers.md",
+    "Systems and Networks/Sockets.md",
+    "IT/Ripasso Informatica 3->4.md",
+    "History/Richelieu e Mazzarino.md",
     "Telecomms/September 12.md",
     "Telecomms",
     "IT/Programming Todo",
@@ -199,7 +210,6 @@
     "IT",
     "Maths",
     "Italian",
-    "History",
     "2023-09-06.md"
   ]
 }
