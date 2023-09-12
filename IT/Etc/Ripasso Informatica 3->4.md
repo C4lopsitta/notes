@@ -70,5 +70,5 @@ void setBirthDate(Tombstone*t, Date* newBirthDate){
 ```
 
 
-[^1]: View the relative note [[IT/Nesting Structures|nesting structures]]
+[^1]: View the relative note [[Nesting Structures|nesting structures]]
 [^2]: The language used is [[The C programming language|C]] 

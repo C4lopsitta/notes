@@ -5,32 +5,20 @@ Methods are usually **instance methods**, this means that they can **only** be a
 Objects are always pointer, or better yet, they're **handles**, which are pointers to that object.
 ## Information hiding
 In Object Oriented Programming each and every class can be hidden and not be visible by the end user of the class-library and only use the methods that are publicly accessible from the outside. Nothing about the implementation will be visible from the outside.
-## The UML diagram
-> [!TODO] Move this section to its own file
-
-The UML Diagram, or **Unified Modelling Language**, represents one or more classes and their relation. [^1]
-An example UML diagram can be seen here:.
+## Classes structure
+Every class must contain a constructor to instantiate it, but this might vary depending on the language and the implementation of the class. Furthermore it sometimes has a visibility, for example in [[Java]] it can be [[Java Visibility||public, private, abstract or protected]]. 
+Classes can also be represented with an [[The UML Diagram||UML diagram]] to show the working of the class as follows:.
 ```mermaid
 classDiagram
-	class Nano{
-		- name: String
-		- height: int
-		- weight: int
-		+ Nano(name: String, height: int, weight: int)
-		+ Nano()
-		+ setHeight(height: int): void
-		+ setWeight(weight: int): void
-		+ setName(name: String): void
-		+ getHeight(): int
-		+ getWeight(): int
-		+ getName(): String
-		+ getBMI(): double
-		+ toString(): String
-	}
+class ClassName{
+	- myAttribute: int
+	- myString: String
+	- myDouble: double
+	+ getMyAttribute() : int
+	+ setMyString(myString: String) : void
+}
 ```
-The first element on the top is the Class name, followed by the attributes and finally by the accessor accompanied by each parameter and relative types of returns and parameters.
-Furthermore, in front of each method and attribute, there is a "+" or "-" sign. The *plus* declares the method or attribute as public, while the *minus* declares it as private.
-The constructor can be also not defined inside the UML Diagram, the same applies to the getty and setty methods.
+
 # Example OOP languages
 - [[Java]]
 - [[Kotlin]]
