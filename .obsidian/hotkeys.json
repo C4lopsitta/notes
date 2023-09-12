@@ -7,14 +7,6 @@
       "key": " "
     }
   ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -41,6 +33,15 @@
         "Mod"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }
