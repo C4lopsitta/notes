@@ -1,6 +1,3 @@
----
-
----
 | Titolo | Contenuti |
 | :----- | --------- |
 |Processi sequenziali e Paralleli|<li>Il modello a processi</li><li>Risorse e condivisione</li><li>I thread</li><li>Elaborazione parallela</li><li>La descrizione della concorrenza</li>|
