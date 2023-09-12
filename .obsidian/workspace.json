@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programming Todo/Battleship.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d39d4b9f3effe94",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programming Todo/Battleship.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Programming Todo/Battleship.md",
+                "file": "TPSIT/Programma TPSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Programming Todo/Battleship.md"
+                "file": "TPSIT/Programma TPSIT.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Programming Todo/Battleship.md"
+                "file": "TPSIT/Programma TPSIT.md"
               }
             }
           }
@@ -158,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +173,9 @@
   },
   "active": "1c54f9d2e479339b",
   "lastOpenFiles": [
-    "TPSIT/Programma TPSIT.md",
+    "Systems and Networks/September 12.md",
     "IT/Programming Todo/Battleship.md",
+    "TPSIT/Programma TPSIT.md",
     "IT/Programming Todo",
     "Obsidian stuff.md",
     "IT/Ripasso Informatica 3->4.md",
