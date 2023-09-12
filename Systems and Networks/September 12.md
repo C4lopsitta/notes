@@ -5,10 +5,10 @@ The International Standard Organization/Open Systems Interconnection protocol mo
 The layers are:
 1. Physical
 2. Data Link
-3. N(etwork?)
+3. Network
 4. Transport
 5. Session
-6. P(rotocol?)
+6. Presentation
 7. Application
 ## The TCP/IP Protocol
 The TCP/IP protocol is an implementation of [[#The ISO/OSI model]] that groups the 7 layers into 4 which are the following:

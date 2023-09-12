@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPSIT/Programma TPSIT.md",
+                "file": "History/Storia Capitoli 20 - 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "September 12.md",
+                "file": "IT/Programming Todo/Battleship.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "23b3db6932bcdc12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "September 12.md",
+                "file": "History/Storia Capitoli 20 - 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "September 12.md",
+                "file": "History/Storia Capitoli 20 - 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "September 12.md"
+                "file": "History/Storia Capitoli 20 - 21.md"
               }
             }
           },
@@ -160,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "September 12.md"
+                "file": "History/Storia Capitoli 20 - 21.md"
               }
             }
           }
@@ -183,16 +190,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "de655f0e40e6251a",
+  "active": "cfd4b2a00441402e",
   "lastOpenFiles": [
-    "Obsidian stuff.md",
-    "September 12.md",
-    "Telecomms",
-    "History/Storia Capitoli 20 - 21.md",
     "History/Richelieu e Mazzarino.md",
     "TPSIT/Programma TPSIT.md",
     "Systems and Networks/September 12.md",
     "IT/Programming Todo/Battleship.md",
+    "History/Storia Capitoli 20 - 21.md",
+    "Telecomms/September 12.md",
+    "Obsidian stuff.md",
+    "Telecomms",
     "IT/Programming Todo",
     "IT/Ripasso Informatica 3->4.md",
     "IT/Nesting Structures.md",
