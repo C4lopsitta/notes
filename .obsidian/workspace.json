@@ -4,54 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6aaceabaca35be",
+        "id": "3bf2f4ad0813dbae",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd4b2a00441402e",
+            "id": "39f6c1b70eec83f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "IT/Object Oriented Programming common practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c54f9d2e479339b",
+            "id": "a3b4314c116a26ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "IT/Object Oriented Programming.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "de655f0e40e6251a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Programming Todo/Battleship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23b3db6932bcdc12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "IT/Object Oriented Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian stuff.md",
+                "file": "IT/Object Oriented Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian stuff.md"
+                "file": "IT/Object Oriented Programming.md"
               }
             }
           },
@@ -167,15 +148,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Obsidian stuff.md"
+                "file": "IT/Object Oriented Programming.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
+    "width": 331.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,18 +172,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "cfd4b2a00441402e",
+  "active": "a3b4314c116a26ad",
   "lastOpenFiles": [
+    "IT/Object Oriented Programming common practices.md",
+    "IT/Object Oriented Programming.md",
+    "IT/Programming Todo/Battleship.md",
+    "IT/Ripasso Informatica 3->4.md",
+    "Obsidian stuff.md",
+    "Systems and Networks/September 12.md",
     "History/Storia Capitoli 20 - 21.md",
     "History/Richelieu e Mazzarino.md",
     "TPSIT/Programma TPSIT.md",
-    "Systems and Networks/September 12.md",
-    "IT/Programming Todo/Battleship.md",
     "Telecomms/September 12.md",
-    "Obsidian stuff.md",
     "Telecomms",
     "IT/Programming Todo",
-    "IT/Ripasso Informatica 3->4.md",
     "IT/Nesting Structures.md",
     "Template/dsoj.md",
     "Template",
