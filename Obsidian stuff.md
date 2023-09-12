@@ -41,6 +41,20 @@
 > All hidden
 > Thanks to the cool as fuck Obsidian Markdown Extensions
 
-
+```mermaid
+gitGraph
+	commit
+	commit
+	commit
+	branch antonio
+	commit
+	checkout main
+	commit
+	checkout antonio
+	commit
+	checkout main
+	merge antonio
+	commit
+```
 
 
