@@ -7,7 +7,7 @@ typedef struct{
 }Structure;
 ```
 
-**Memory diagram**
+**Memory diagram** [^2]
 ```mermaid
 graph TD
 
@@ -71,3 +71,4 @@ void setBirthDate(Tombstone*t, Date* newBirthDate){
 
 
 [^1]: View the relative note [[IT/Nesting Structures|nesting structures]]
+[^2]: The language used is [[The C programming language|C]] 

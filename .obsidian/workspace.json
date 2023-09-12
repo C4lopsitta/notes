@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "8de5fac450cfacfa",
+            "id": "c1636aa423fd671f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +182,11 @@
   },
   "active": "a3b4314c116a26ad",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming.md",
+    "IT/Ripasso Informatica 3->4.md",
+    "IT/Programming languages.md",
+    "IT/Language specific notes/The C programming language.md",
+    "IT/Language specific notes/Java.md",
     "History/Storia Capitoli 20 - 21.md",
     "IT/Programming Todo/Battleship.md",
     "IT/Language specific notes/C++.md",
@@ -192,7 +196,6 @@
     "Obsidian stuff.md",
     "Systems and Networks/Routers.md",
     "Systems and Networks/Sockets.md",
-    "IT/Ripasso Informatica 3->4.md",
     "History/Richelieu e Mazzarino.md",
     "Telecomms/September 12.md",
     "Telecomms",

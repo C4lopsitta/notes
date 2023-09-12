@@ -6,6 +6,8 @@ Objects are always pointer, or better yet, they're **handles**, which are pointe
 ## Information hiding
 In Object Oriented Programming each and every class can be hidden and not be visible by the end user of the class-library and only use the methods that are publicly accessible from the outside. Nothing about the implementation will be visible from the outside.
 ## The UML diagram
+> [!TODO] Move this section to its own file
+
 The UML Diagram, or **Unified Modelling Language**, represents one or more classes and their relation. [^1]
 An example UML diagram can be seen here:.
 ```mermaid
