@@ -6,6 +6,7 @@ Every C program starts with an **[[Glossary#Entrypoint|entrypoint]]**. At the to
 An example basic structure of a C program:
 ```C
 #include <stdlib.h>
+#define DIO "porco"
 
 int main(int argv, char**argv){
 	return 0; //exited successfully
