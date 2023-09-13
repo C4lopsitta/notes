@@ -1,5 +1,7 @@
 # Routers
-Routing happens on the Third layer of [[#The ISO/OSI model]]. The router receives data packages from a device on the network and then decides to what router send it next or to directly send it to the destination if it's on the local network.
+Routing happens on the Third layer of [[#The ISO/OSI model]]. The router receives data packages from a device on the network and then decides to what router send it next or to directly send it to the destination if it's on the local network, this is done through the IP and Port and with specially made routing protocols and [[#routing tables]]. An example routing protocol is **dixtra**'s algorithm, which was written to paper in the early 80s.
+
+Emulators: cisco packet tracer; gns3
 ## The ISO/OSI model
 The International Standard Organization/Open Systems Interconnection protocol model is formed by 7 layers that standardize communications between devices.
 The layers are:
@@ -20,3 +22,5 @@ The TCP/IP protocol is an implementation of [[#The ISO/OSI model]] that groups t
    Uses protocols such as ICMP and IGMP (IP)
 4. Link (layers 2 and 1)
    It's related to the Network Interface Cards and their relative drivers.
+## Routing Tables
+Routing tables are made by the router by pinging every so often other routers to share it's own current status and get that router's status.
