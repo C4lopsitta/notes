@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullpage OS.md",
-                "mode": "preview",
+                "file": "IT/Language specific notes/Java.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullpage OS.md",
+                "file": "IT/Language specific notes/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullpage OS.md",
+                "file": "IT/Language specific notes/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullpage OS.md"
+                "file": "IT/Language specific notes/Java.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fullpage OS.md"
+                "file": "IT/Language specific notes/Java.md"
               }
             }
           }
@@ -218,8 +218,8 @@
   },
   "active": "b0d1fe8af71eaede",
   "lastOpenFiles": [
-    "Systems and Networks/Routers.md",
     "Fullpage OS.md",
+    "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Language specific notes/The C programming language.md",
     "IT/Language specific notes/Java.md",

@@ -16,21 +16,14 @@ Constructors are a special method that is a Class Method and you usually find tw
    }
 ```
 
-
+## How it works
+Java is a pseudocompiled language, that is compiled to bytecode that is then run on the Java Virtual Machine.
 ```mermaid
-classDiagram
-class Pavimento{
-	- id: int
-	- name: String
-	- material: String
-	+ Pavimento()
-	+ Pavimento(id: int, name: String, material: String)
-	+ getId(): int
-	+ getName(): String
-	+ getMaterial(): String
-	+ setId(id: int): void
-	+ setName(name: String): void
-	+ setMaterial(material: String): void
-	+ toString(): String
-}
+flowchart LR
+	A["Source file\n(.java)"]
+	B["Byte code\n(.class)"]
+	C["Package\n(.jar)"]
+	D["Execution\n(In the JVM)"]
+
+	A --> B --> C --> D
 ```
