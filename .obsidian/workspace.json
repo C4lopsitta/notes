@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "200118b8dc1ae81e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Language specific notes/The C programming language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dceadedd69a9b2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IT/Object Oriented Programming/The UML Diagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7173109ee82e0def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems and Networks/Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e1d2e0e434de4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Object Oriented Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,17 +206,18 @@
   },
   "active": "b0d1fe8af71eaede",
   "lastOpenFiles": [
+    "IT/Object Oriented Programming.md",
+    "Java Visibility.md",
+    "IT/Language specific notes/Java.md",
     "Fullpage OS.md",
     "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Language specific notes/The C programming language.md",
-    "IT/Language specific notes/Java.md",
     "IT/Glossary.md",
     "TPSIT/Environment setup.md",
     "TPSIT/Programma TPSIT.md",
     "IT/Language specific notes/C",
     "IT/Etc/Ripasso Informatica 3->4.md",
-    "IT/Object Oriented Programming.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "Obsidian stuff.md",
     "IT/Etc",
