@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Fullpage OS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Fullpage OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Fullpage OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Fullpage OS.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Fullpage OS.md"
               }
             }
           }
@@ -219,7 +219,7 @@
   "active": "b0d1fe8af71eaede",
   "lastOpenFiles": [
     "Systems and Networks/Routers.md",
-    "Untitled.md",
+    "Fullpage OS.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Language specific notes/The C programming language.md",
     "IT/Language specific notes/Java.md",
