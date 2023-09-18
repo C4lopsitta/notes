@@ -60,3 +60,20 @@ flowchart LR
 
 JDK (Javac, jar, debuigginh tools, javap)
 JRE ()
+
+# Java Runtime Environments
+## JME
+Java Micro Edition
+## JSE
+Java Standard Edition
+## JEE
+Java Enterprise Edition
+Now JAKARTA project, it's open source under Apache because Oracle abandoned JEE.
+## Oracle shenanigans
+The most recent version as of the 18th of September 2023 is Java 19.
+From Oracle's website two versions can be installed:
+- JRE => Java Runtime Environment, no devtools or compilers are present.
+- JDK => Everything you need to run and develop Java software
+# Libraries In Java
+Libraries in Java are inside *.jar* files, these are just ZIPs with a different extension. Because managing extensions is a mess, there are *xml* files that describe all the libraries needed that can be found online. A famous one of these utilities is **Maven**. 
+

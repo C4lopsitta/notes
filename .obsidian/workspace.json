@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0d1fe8af71eaede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "IT/Language specific notes/Java.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,21 +192,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b0d1fe8af71eaede",
+  "active": "dceadedd69a9b2a6",
   "lastOpenFiles": [
+    "IT/From Code to Execution.md",
     "IT/Object Oriented Programming.md",
-    "Java Visibility.md",
     "IT/Language specific notes/Java.md",
+    "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
+    "IT/Object Oriented Programming/The UML Diagram.md",
+    "IT/Glossary.md",
+    "Java Visibility.md",
     "Fullpage OS.md",
     "Systems and Networks/Routers.md",
-    "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Language specific notes/The C programming language.md",
-    "IT/Glossary.md",
     "TPSIT/Environment setup.md",
     "TPSIT/Programma TPSIT.md",
     "IT/Language specific notes/C",
     "IT/Etc/Ripasso Informatica 3->4.md",
-    "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "Obsidian stuff.md",
     "IT/Etc",
     "IT/Object Oriented Programming",
@@ -241,7 +230,6 @@
     "Untitled.canvas",
     "guerra dei trent'anni.md",
     "Wed 06 September 21.09.md",
-    "TPSIT",
-    "2023-09-06.md"
+    "TPSIT"
   ]
 }
