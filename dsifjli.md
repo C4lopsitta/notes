@@ -3,12 +3,14 @@ classDiagram
 class Car{
 	- licensePlate: String
 	- name: String
-	- registrationNumber: Integer$
+	- registrationNumber: Integer
+	- lastRegistrationNumber: Integer$
 	+ Car()$
 	+ Car(name: String, licensePlate: String)$
 	+ getLicensePlate(): String
-	+ getRegistrationNumber(): Integer$
+	+ getLastRegistrationNumber(): Integer$
 	+ getName(): String
+	+ getRegistrationNumber(): Integer
 	+ setLicensePlate(licensePlate: String): void
 	+ setName(name: String): void
 	+ toString(): String

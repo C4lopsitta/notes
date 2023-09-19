@@ -6,7 +6,6 @@
       {
         "id": "ba018f1569fd1371",
         "type": "tabs",
-        "dimension": 52.93413173652694,
         "children": [
           {
             "id": "76be6901b996b4ad",
@@ -55,15 +54,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "94c814ab5179ff9b",
-        "type": "tabs",
-        "dimension": 47.06586826347306,
-        "children": [
+          },
           {
             "id": "ddccdca7bd5369b2",
             "type": "leaf",
@@ -76,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullpage OS.md",
+                "file": "dsifjli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullpage OS.md",
+                "file": "dsifjli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullpage OS.md"
+                "file": "dsifjli.md"
               }
             }
           },
@@ -200,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fullpage OS.md"
+                "file": "dsifjli.md"
               }
             }
           }
@@ -224,10 +216,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ddccdca7bd5369b2",
+  "active": "0189beb1c83d5e7d",
   "lastOpenFiles": [
-    "dsifjli.md",
     "Fullpage OS.md",
+    "dsifjli.md",
     "IT/Object Oriented Programming.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Language specific notes/Java.md",
