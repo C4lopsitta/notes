@@ -49,14 +49,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "file": "Systems and Networks/Routers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f40491d877bcf4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8215a82f95dd7892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -180,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -204,17 +224,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ba4255758b16957f",
+  "active": "8215a82f95dd7892",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java.md",
+    "Untitled.md",
+    "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
+    "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "IT/From Code to Execution.md",
     "IT/Glossary.md",
     "Java Visibility.md",
     "Fullpage OS.md",
-    "Systems and Networks/Routers.md",
     "IT/Language specific notes/The C programming language.md",
     "TPSIT/Environment setup.md",
     "TPSIT/Programma TPSIT.md",
@@ -241,7 +262,6 @@
     "11-09-23.md",
     "Untitled.canvas",
     "guerra dei trent'anni.md",
-    "Wed 06 September 21.09.md",
     "TPSIT"
   ]
 }
