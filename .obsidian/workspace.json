@@ -56,14 +56,6 @@
             }
           },
           {
-            "id": "1f40491d877bcf4c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8215a82f95dd7892",
             "type": "leaf",
             "state": {
@@ -76,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Systems and Networks/Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Systems and Networks/Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           },
@@ -200,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           }
@@ -224,7 +216,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8215a82f95dd7892",
+  "active": "ba4255758b16957f",
   "lastOpenFiles": [
     "Untitled.md",
     "Systems and Networks/Routers.md",
