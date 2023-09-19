@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76be6901b996b4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Glossary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dceadedd69a9b2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Language specific notes/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1d2e0e434de4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Object Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0189beb1c83d5e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsifjli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ddccdca7bd5369b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullpage OS.md",
-                "mode": "preview",
+                "file": "IT/UMLs/Car UML.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsifjli.md",
+                "file": "IT/UMLs/Car UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsifjli.md",
+                "file": "IT/UMLs/Car UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsifjli.md"
+                "file": "IT/UMLs/Car UML.md"
               }
             }
           },
@@ -192,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dsifjli.md"
+                "file": "IT/UMLs/Car UML.md"
               }
             }
           }
@@ -216,19 +167,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0189beb1c83d5e7d",
+  "active": "ddccdca7bd5369b2",
   "lastOpenFiles": [
     "Fullpage OS.md",
-    "dsifjli.md",
+    "IT/Glossary.md",
+    "IT/From Code to Execution.md",
+    "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
-    "IT/Language specific notes/Java.md",
+    "IT/UMLs/Car UML.md",
+    "IT/UMLs",
+    "IT/Untitled.md",
     "Untitled.md",
     "TPSIT/Programma TPSIT.md",
     "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
-    "IT/From Code to Execution.md",
-    "IT/Glossary.md",
     "Java Visibility.md",
     "IT/Language specific notes/The C programming language.md",
     "TPSIT/Environment setup.md",
@@ -249,11 +202,8 @@
     "Telecomms",
     "IT/Programming Todo",
     "IT/Functional Programming/Nesting Structures.md",
-    "Template/dsoj.md",
     "Template",
     "Recording 20230911153111.webm",
-    "11-09-23.md",
-    "Untitled.canvas",
-    "TPSIT"
+    "Untitled.canvas"
   ]
 }
