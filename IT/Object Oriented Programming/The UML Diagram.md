@@ -27,7 +27,7 @@ Static methods or attributes are marked by being underlined:.
 classDiagram
 class myClass{
 	- myAttribute: int
-	- myStaticAttribute$: int
+	- int myStaticAttribute$
 	+ myMethod(): void
 	+ myStaticMethod()$: void
 }
