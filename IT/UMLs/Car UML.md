@@ -5,6 +5,7 @@ class Car{
 	- name: String
 	- registrationNumber: Integer
 	- lastRegistrationNumber: Integer$
+	- owner: Owner
 	+ Car()$
 	+ Car(name: String, licensePlate: String)$
 	+ getLicensePlate(): String
@@ -15,4 +16,23 @@ class Car{
 	+ setName(name: String): void
 	+ toString(): String
 }
+
+class Owner{
+	- id: Integer
+	- name: String
+	- surname: String
+	- lastId: Integer$
+	+ Owner()
+	+ Owner(name: String, surname: String)
+	+ getName(): String
+	+ getSurname(): String
+	+ getId(): Integer
+	+ getLastId(): Integer$
+	+ setName(name: String): void
+	+ setSurname(surname: String): void
+	+ toString(): String
+}
+
+Owner --o "0..1" Car
 ```
+

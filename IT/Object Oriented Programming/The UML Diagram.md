@@ -32,5 +32,17 @@ class myClass{
 	+ myStaticMethod()$: void
 }
 ```
+Classes can also be connected to each other with a cardinality, which is how many instances can be connected by showing a number next to the arrow head.
+Example:.
+```mermaid
+classDiagram
+class A{
+	- stuff: id
+}
+class B{
+	- stuffed: String
+}
+A --o "0..2" B
+```
 
 [^1]: [[Object Oriented Programming common practices|Common practices in object oriented programming.]] 
