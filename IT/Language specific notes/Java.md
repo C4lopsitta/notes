@@ -90,3 +90,16 @@ and elements can then be removed by using the `.remove()` method:
 ```Java
 name.remove(index);
 ```
+and to access an element from the list you use the `.get()` method:.
+```Java
+name.get(index);
+```
+More methods are available:
+```Java
+name.size();
+```
+Returns the size of the array
+```Java
+name.indexOf(element);
+```
+Searches `element` in `name` and returns the index, if not found it returns -1.
