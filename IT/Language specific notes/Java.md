@@ -77,7 +77,7 @@ From Oracle's website two versions can be installed:
 # Libraries In Java
 Libraries in Java are inside *.jar* files, these are just ZIPs with a different extension. Because managing extensions is a mess, there are *xml* files that describe all the libraries needed that can be found online. A famous one of these utilities is **Maven**. 
 # ArrayLists
-An arraylist is a class in `java.lang.ArrayList` that is dynamically resized to fit the contents.
+An arraylist is a class in `java.util.ArrayList` that is dynamically resized to fit the contents.
 To instantiate an ArrayList you need to import it and declare it as follows:.
 ```Java
 visibility ArrayList<datatype> name = new ArrayList();
