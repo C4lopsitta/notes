@@ -76,4 +76,17 @@ From Oracle's website two versions can be installed:
 - JDK => Everything you need to run and develop Java software
 # Libraries In Java
 Libraries in Java are inside *.jar* files, these are just ZIPs with a different extension. Because managing extensions is a mess, there are *xml* files that describe all the libraries needed that can be found online. A famous one of these utilities is **Maven**. 
-
+# ArrayLists
+An arraylist is a class in `java.lang.ArrayList` that is dynamically resized to fit the contents.
+To instantiate an ArrayList you need to import it and declare it as follows:.
+```Java
+visibility ArrayList<datatype> name = new ArrayList();
+```
+To add an element to the the ArrayList you can use the `.add()` method:
+```Java
+name.add(element);
+```
+and elements can then be removed by using the `.remove()` method:
+```Java
+name.remove(index);
+```
