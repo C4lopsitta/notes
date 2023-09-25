@@ -15,6 +15,7 @@ Constructors are a special method that is a Class Method and you usually find tw
 	   this.param2 = param2;
    }
 ```
+Every class is the son of the mother class `Object`
 # Visibility
 ## Public
 
@@ -119,3 +120,4 @@ To reference this enumeration you just use it as a class:.
 ```Java
 PokemonFamily pf = PokemonFamily.FIRE;
 ```
+Each `enum` has a method called `.values()` that returns each and every value of the enumeration and another method called `.valueOf(String)` that takes a `String` and returns the type in the enumeration of that if present in the Enumeration.
