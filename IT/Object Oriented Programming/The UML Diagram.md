@@ -44,5 +44,18 @@ class B{
 }
 A --o "0..2" B
 ```
+# Enumerations
+```mermaid
+classDiagram
+
+class Enumeration {
+	MYENUMVAL
+	MYENUMVAL2
+
+	+ myEnumMethod(): void
+}
+
+<<Enumeration>> Enumeration
+```
 
 [^1]: [[Object Oriented Programming common practices|Common practices in object oriented programming.]] 

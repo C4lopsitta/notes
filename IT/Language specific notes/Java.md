@@ -44,8 +44,21 @@ myInstanceOfClass.myMethod();
 ## Making Constants
 A constant in Java can be declared with the `final` keyword. Example:
 ```Java
-public final int awnserToAllQuestions = 42;
+public final int AwnserToAllQuestions = 42;
 ```
+## Boxing
+Boxing is when you take a primitive type and box it inside a class that only has the primitive type inside. Example:.
+```mermaid
+classDiagram
+class Integer{
+	- n: int
+
+	+ Integer(n: int)$
+	+ getN(): int
+	+ setN(n: int): void
+}
+```
+Java already offers all primitive types boxed inside classes.
 
 # How it works
 Java is a pseudocompiled language, that is compiled to bytecode that is then run on the Java Virtual Machine.
@@ -120,4 +133,4 @@ To reference this enumeration you just use it as a class:.
 ```Java
 PokemonFamily pf = PokemonFamily.FIRE;
 ```
-Each `enum` has a method called `.values()` that returns each and every value of the enumeration and another method called `.valueOf(String)` that takes a `String` and returns the type in the enumeration of that if present in the Enumeration.
+Each `enum` has a method called `.values()` that returns each and every value of the enumeration and another method called `.valueOf(String)` that takes a `String` and returns the type in the enumeration of that if present in the Enumeration. There also is the `.compareTo(EnumName)` that returns an integer that compares the Enumeration given to the current enumeration in `this`.
