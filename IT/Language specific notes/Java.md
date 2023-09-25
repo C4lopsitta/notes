@@ -134,3 +134,5 @@ To reference this enumeration you just use it as a class:.
 PokemonFamily pf = PokemonFamily.FIRE;
 ```
 Each `enum` has a method called `.values()` that returns each and every value of the enumeration and another method called `.valueOf(String)` that takes a `String` and returns the type in the enumeration of that if present in the Enumeration. There also is the `.compareTo(EnumName)` that returns an integer that compares the Enumeration given to the current enumeration in `this`.
+
+# Inheritance
