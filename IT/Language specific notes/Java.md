@@ -103,3 +103,19 @@ Returns the size of the array
 name.indexOf(element);
 ```
 Searches `element` in `name` and returns the index, if not found it returns -1.
+
+# Enumeration
+In Java enumerations are in a special class of name `enum`:.
+```Java
+public enum PokemonFamily{
+	FIRE,
+	WATER,
+	PLANT,
+	...
+	STONE
+}
+```
+To reference this enumeration you just use it as a class:.
+```Java
+PokemonFamily pf = PokemonFamily.FIRE;
+```
