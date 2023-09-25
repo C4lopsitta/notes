@@ -136,3 +136,39 @@ PokemonFamily pf = PokemonFamily.FIRE;
 Each `enum` has a method called `.values()` that returns each and every value of the enumeration and another method called `.valueOf(String)` that takes a `String` and returns the type in the enumeration of that if present in the Enumeration. There also is the `.compareTo(EnumName)` that returns an integer that compares the Enumeration given to the current enumeration in `this`.
 
 # Inheritance
+```mermaid
+classDiagram
+direction LR
+class Animal{
+	# name: String
+	# weight: double
+}
+
+class Cat{
+	- fur: FurType
+}
+
+class Dog{
+	- race: DogRace
+}
+
+class Penguin{
+	- isGNU: bool
+}
+
+class Tux{
+	- isBSD: bool
+}
+
+Cat --|> Animal
+Dog --|> Animal
+Penguin --|> Animal
+Tux --|> Penguin
+```
+No matter what you do, all classes extend the default mother class `Object`.
+In `Java` tho you cannot do multiple inheritance.
+
+
+
+
+
