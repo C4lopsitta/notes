@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef7c932ab6f14653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a67c001d9d8f1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/UMLs/Books UML.md",
+                "file": "TPSIT/Resources in Parallel Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/UMLs/Books UML.md",
+                "file": "TPSIT/Resources in Parallel Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/UMLs/Books UML.md",
+                "file": "TPSIT/Resources in Parallel Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/UMLs/Books UML.md"
+                "file": "TPSIT/Resources in Parallel Processing.md"
               }
             }
           },
@@ -168,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/UMLs/Books UML.md"
+                "file": "TPSIT/Resources in Parallel Processing.md"
               }
             }
           }
@@ -192,12 +167,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7a67c001d9d8f1e5",
+  "active": "2440ad62c75ab15b",
   "lastOpenFiles": [
     "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
-    "IT/UMLs/Books UML.md",
+    "TPSIT/Resources in Parallel Processing.md",
     "TPSIT/Processes.md",
+    "TPSIT/Environment setup.md",
+    "IT/UMLs/Books UML.md",
     "IT/UMLs/Car UML.md",
     "Untitled.md",
     "Fullpage OS.md",
@@ -211,7 +188,6 @@
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "Java Visibility.md",
     "IT/Language specific notes/The C programming language.md",
-    "TPSIT/Environment setup.md",
     "IT/Language specific notes/C",
     "IT/Etc/Ripasso Informatica 3->4.md",
     "Obsidian stuff.md",
@@ -225,7 +201,6 @@
     "IT/Language specific notes",
     "TPSIT/Sockets.md",
     "History/Richelieu e Mazzarino.md",
-    "Telecomms/September 12.md",
     "Telecomms",
     "IT/Programming Todo",
     "Template",
