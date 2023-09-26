@@ -24,6 +24,7 @@ Every class is the son of the mother class `Object`
 ## Protected
 
 ## Abstract
+An abstract class is a class that has at least a single virtual (abstract) method. An abstract method is a method that has no implementation other than the name, return type and parameters with relative types. It's used for subclasses to implement. This makes the super class impossible to implement, and the subclasses have to then implement it for the super class.
 
 ## Static-ness
 When an attribute is static it's the same for all instances of the class, so it's a class attribute and not an object attribute.
@@ -40,6 +41,10 @@ To call a class method you can either use the class or an instance of it:.
 MyClass.myMethod();
 myInstanceOfClass.myMethod();
 ```
+
+# Interface
+All the methods of a class. There also is a "class" that is defined with `interface` that can only contain abstract methods.
+
 # Types in Java
 ## Making Constants
 A constant in Java can be declared with the `final` keyword. Example:
