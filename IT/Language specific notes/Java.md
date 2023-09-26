@@ -45,7 +45,12 @@ myInstanceOfClass.myMethod();
 # Interface
 All the methods of a class. There also is a "class" that is defined with `interface` that can only contain abstract methods.
 # Anonymous classes
-
+When you instantiate a class with `new`, you can implement methods as follows:
+```Java
+MyClass myAbstractClass = new MyClass(){
+	public void myFancyAnonymusMethod(){};
+}
+```
 
 # Types in Java
 ## Making Constants
