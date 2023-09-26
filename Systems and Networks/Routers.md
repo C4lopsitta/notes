@@ -24,3 +24,9 @@ The TCP/IP protocol is an implementation of [[#The ISO/OSI model]] that groups t
    It's related to the Network Interface Cards and their relative drivers.
 ## Routing Tables
 Routing tables are made by the router by pinging every so often other routers to share it's own current status and get that router's status.
+
+# Subnet Masks
+- Subnet mask for class C: 255.255.255.0
+- Subnet mask for class B: 255.255.0.0
+- Subnet mask for class A: 255.0.0.0
+Those zeroes can also be other values. In the case those aren't zeroes it means that the LAN has been partitioned into subnets.
