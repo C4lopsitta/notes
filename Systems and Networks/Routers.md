@@ -30,3 +30,9 @@ Routing tables are made by the router by pinging every so often other routers to
 - Subnet mask for class B: 255.255.0.0
 - Subnet mask for class A: 255.0.0.0
 Those zeroes can also be other values. In the case those aren't zeroes it means that the LAN has been partitioned into subnets.
+## Particular notation for subnet masks
+- Class A is /8
+- Class B is /16
+- Class C is /24
+
+
