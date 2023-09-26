@@ -44,6 +44,8 @@ myInstanceOfClass.myMethod();
 
 # Interface
 All the methods of a class. There also is a "class" that is defined with `interface` that can only contain abstract methods.
+# Anonymous classes
+
 
 # Types in Java
 ## Making Constants
