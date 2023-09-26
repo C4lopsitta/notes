@@ -13,19 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomms/Revise 3rd year.md",
+                "file": "Telecomms/Lab safety.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4169abc80790ca36",
+        "type": "tabs",
+        "children": [
           {
-            "id": "20281969d05555a6",
+            "id": "603823c3b8fcf96f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "file": "Telecomms/Revision 3rd year.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomms/Revise 3rd year.md",
+                "file": "Telecomms/Lab safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomms/Revise 3rd year.md",
+                "file": "Telecomms/Lab safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomms/Revise 3rd year.md"
+                "file": "Telecomms/Lab safety.md"
               }
             }
           },
@@ -155,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Telecomms/Revise 3rd year.md"
+                "file": "Telecomms/Lab safety.md"
               }
             }
           }
@@ -181,8 +187,10 @@
   },
   "active": "12dc7122752dd328",
   "lastOpenFiles": [
+    "Telecomms/Revision 3rd year.md",
+    "Telecomms/Lab safety.md",
+    "Recording 20230926131111.webm",
     "Systems and Networks/Routers.md",
-    "Telecomms/Revise 3rd year.md",
     "TPSIT/Programma TPSIT.md",
     "IT/Language specific notes/Java.md",
     "Fullpage OS.md",
@@ -210,13 +218,10 @@
     "IT/Programming languages.md",
     "History/Storia Capitoli 20 - 21.md",
     "IT/Programming Todo/Battleship.md",
-    "IT/Language specific notes/C++.md",
     "IT/Language specific notes",
-    "TPSIT/Sockets.md",
     "Telecomms",
     "IT/Programming Todo",
     "Template",
-    "Recording 20230911153111.webm",
     "Untitled.canvas"
   ]
 }
