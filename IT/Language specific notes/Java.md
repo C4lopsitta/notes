@@ -168,7 +168,19 @@ Tux --|> Penguin
 No matter what you do, all classes extend the default mother class `Object`.
 In `Java` tho you cannot do multiple inheritance.
 
+Casting classes:
+```Java
+class Veichle{}
+class Slave extends Veichle{}
 
+//to cast slave as veichle
+((Veichle)mySlave).myVeichleMethod();
+```
 
-
+# Dynamic Binding
+This is what java does when you instantiate a slave (above) with the following structure
+```Java
+Veichle slave = new Slave()
+```
+And it automatically binds slave's overridden methods instead of veichle's methods.
 
