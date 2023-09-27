@@ -44,6 +44,10 @@ class B{
 }
 A --o "0..2" B
 ```
+## Abstraction
+Abstraction of a method can be marked with one of the following methods:
+- `+abstract myMethod(): returntype`
+- *+ myMethod(): returntype*
 # Enumerations
 ```mermaid
 classDiagram
@@ -57,5 +61,6 @@ class Enumeration {
 
 <<Enumeration>> Enumeration
 ```
+
 
 [^1]: [[Object Oriented Programming common practices|Common practices in object oriented programming.]] 

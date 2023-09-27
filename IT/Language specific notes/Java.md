@@ -170,6 +170,7 @@ class Penguin{
 
 class Tux{
 	- isBSD: bool
+	+ idunno(): void*
 }
 
 Cat --|> Animal
