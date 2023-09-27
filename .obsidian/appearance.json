@@ -4,5 +4,6 @@
   "textFontFamily": "",
   "enabledCssSnippets": [
     "css"
-  ]
+  ],
+  "baseFontSize": 30
 }
