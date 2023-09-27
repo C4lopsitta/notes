@@ -35,3 +35,7 @@ Those zeroes can also be other values. In the case those aren't zeroes it means 
 - Class B is /16
 - Class C is /24
 
+1. 196.148.12.0
+   Class C; 255.255.255.0 /24
+2. subnet mask: 255.255.255.240 /28 (24+4)
+3. 
