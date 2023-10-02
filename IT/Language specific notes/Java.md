@@ -30,7 +30,7 @@ An abstract class is a class that has at least a single virtual (abstract) metho
 When an attribute is static it's the same for all instances of the class, so it's a class attribute and not an object attribute.
 Example of a `static` attribute:.
 ```Java
-private static int counter = 42;
+private static int awnser = 42;
 ```
 Methods can also be static in Java. This is because static attributes can only be used by class methods that are static, because they need to be callable even with no instance of that class. An example of a static method can be the main function or a constructor of a class.
 ``` Java
@@ -38,10 +38,10 @@ public static void main(String[] args) {}
 ```
 To call a class method you can either use the class or an instance of it:.
 ```Java
-MyClass.myMethod();
-myInstanceOfClass.myMethod();
+MyClass.MyMethod();
+myInstanceOfClass.MyMethod();
 ```
-
+A static method can only access class members, no instance level members.
 # Interface
 All the methods of a class. There also is a "class" that is defined with `interface` that can only contain abstract methods.
 # Anonymous classes
