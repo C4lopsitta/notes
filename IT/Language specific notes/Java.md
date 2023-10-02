@@ -195,5 +195,7 @@ This is what java does when you instantiate a slave (above) with the following s
 ```Java
 Veichle slave = new Slave()
 ```
-And it automatically binds slave's overridden methods instead of veichle's methods.
-
+And it automatically binds slave's overridden methods instead of vehicle's methods.
+# Streams
+Java was unfortunately made in an era when those poor ignorant developers thought we would've all switched to UTF-16. Standard out (`System.out`), has a lot of methods that help you to write to files more easily, you could use `StreamWrite` but `PrintWrite` is more refined and easier to use.
+To read you have to use a `BufferedRead` that uses a `StreamRead` to read 2 bytes at a time and then returns 1 byte at a time to get UTF-8 characters.
