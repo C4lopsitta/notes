@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems and Networks/Routers.md",
+                "file": "TPSIT/Threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems and Networks/Routers.md",
+                "file": "TPSIT/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems and Networks/Routers.md",
+                "file": "TPSIT/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems and Networks/Routers.md"
+                "file": "TPSIT/Threads.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Systems and Networks/Routers.md"
+                "file": "TPSIT/Threads.md"
               }
             }
           }
@@ -182,6 +182,8 @@
   },
   "active": "097ce424949230ca",
   "lastOpenFiles": [
+    "Systems and Networks/Routers.md",
+    "TPSIT/Threads.md",
     "Untitled 1.md",
     "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
@@ -190,7 +192,6 @@
     "Fullpage OS.md",
     "Telecomms/Lab safety.md",
     "Recording 20230926131111.webm",
-    "Systems and Networks/Routers.md",
     "TPSIT/Programma TPSIT.md",
     "TPSIT/Resources in Parallel Processing.md",
     "TPSIT/Processes.md",
@@ -213,7 +214,6 @@
     "IT/Functional Programming",
     "IT/Programming languages.md",
     "History/Storia Capitoli 20 - 21.md",
-    "IT/Programming Todo/Battleship.md",
     "IT/Language specific notes",
     "Telecomms",
     "IT/Programming Todo",
