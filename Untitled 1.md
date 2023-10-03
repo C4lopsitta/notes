@@ -33,5 +33,5 @@ $$
 $$
 
 $$
-
+\Sigma = \sigma < \alpha < \beta
 $$
