@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3ee3e5d29f2f37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "IT/Object Oriented Programming/The UML Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "IT/Object Oriented Programming/The UML Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "IT/Object Oriented Programming/The UML Diagram.md"
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "IT/Object Oriented Programming/The UML Diagram.md"
               }
             }
           }
@@ -167,8 +180,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2440f9ecca133154",
+  "active": "e3ee3e5d29f2f37d",
   "lastOpenFiles": [
+    "IT/Language specific notes/Java.md",
     "Untitled 1.md",
     "Telecomms/Lab safety.md",
     "Recording 20231003120612.webm",
@@ -176,7 +190,6 @@
     "History/Storia Capitoli 20 - 21.md",
     "Untitled 2.md",
     "History/Richelieu e Mazzarino.md",
-    "IT/Language specific notes/Java.md",
     "TPSIT/Threads.md",
     "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",

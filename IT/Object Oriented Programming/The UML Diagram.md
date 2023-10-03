@@ -62,5 +62,23 @@ class Enumeration {
 <<Enumeration>> Enumeration
 ```
 
+# Inferface
+```mermaid
+classDiagram
+
+class Iface{
+	+ myMethod(): void
+}
+
+class IfaceImplem{
+	- myAttr: String
+}
+
+Iface ..|> IfaceImplem
+
+
+<<Interface>> Iface
+```
+
 
 [^1]: [[Object Oriented Programming common practices|Common practices in object oriented programming.]] 
