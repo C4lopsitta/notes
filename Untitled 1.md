@@ -25,6 +25,13 @@ $$
 $$
 
 $$
-\root rewqfad
+\root{} rewqfad
 $$
 
+$$
+\frown\angle\triangle\Delta\delta\alpha\beta\gamma\omega\Omega
+$$
+
+$$
+
+$$

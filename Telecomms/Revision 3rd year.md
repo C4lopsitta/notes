@@ -33,13 +33,13 @@ $$
 $$
 To calculate the charge correctly we need a minimal time, almost zero, so we use the derivate of delta Q:
 $$
-lim(t->0) \frac{delta Q}{t} idontfuckingknowfuckingshit
+\lim_{t->0} \frac{delta Q}{t} idontfuckingknowfuckingshit
 $$
 ## Coulomb's Law
 Two charges with the same charge (+/-) represented by $Q_1$ and $Q_2$ have a $F$ force vector that is constant and pushes the two charges away from eachother.
 This force is calculated by:
 $$
-F = K * \frac{Q_1*Q_2}{r^2}
+F = K \cdot \frac{Q_1 \cdot Q_2}{r^2}
 $$
 ### Example
 $Q_1$ is fixed in place and around it there are $n$ charges of the same charge (positive for example). From $Q_1$ there are $n$ vectors pushing away each and every charge away from $Q_1$.

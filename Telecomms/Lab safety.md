@@ -4,3 +4,5 @@
 - Dangers
   A danger is the probability of a *Risk* to happen, it might not happen but it is possible. So danger is related to the current situation and can vary in time.
 - Health risks
+
+![[Recording 20231003120612.webm]]
