@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1192e9709903e34a",
+        "id": "eef963777400b5a4",
         "type": "tabs",
         "children": [
           {
-            "id": "c08201cc8318d4b3",
+            "id": "2440f9ecca133154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomms/Revision 3rd year.md",
+                "file": "IT/Language specific notes/Java.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7e4734e144e2545e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telecomms/Lab safety.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c39d3405d3fa337f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "784561ad17200436",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Language specific notes/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Language specific notes/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Language specific notes/Java.md"
+              }
             }
           },
           {
@@ -171,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "IT/Language specific notes/Java.md"
+              }
             }
           }
         ],
@@ -194,7 +167,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "784561ad17200436",
+  "active": "2440f9ecca133154",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Telecomms/Lab safety.md",
