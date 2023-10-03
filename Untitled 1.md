@@ -37,7 +37,13 @@ $$
 $$
 
 $$
-\begin{matrix}
-
-\end{matrix}
+^2/_2  \sqrt[3]{324} 
+$$
+$$
+\begin{cases}
+fads \\
+dasf \\
+ashaeradgf \\
+adsg
+\end{cases}
 $$

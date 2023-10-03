@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "784561ad17200436",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Untitled 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -192,12 +194,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c39d3405d3fa337f",
+  "active": "784561ad17200436",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Telecomms/Lab safety.md",
     "Recording 20231003120612.webm",
     "Telecomms/Revision 3rd year.md",
-    "Untitled 1.md",
     "History/Storia Capitoli 20 - 21.md",
     "Untitled 2.md",
     "History/Richelieu e Mazzarino.md",
