@@ -30,17 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c195719bb1f37ba",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Language specific notes/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Language specific notes/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Language specific notes/Java.md"
+              }
             }
           },
           {
@@ -159,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "IT/Language specific notes/Java.md"
+              }
             }
           }
         ],
@@ -182,12 +179,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7c195719bb1f37ba",
+  "active": "2440f9ecca133154",
   "lastOpenFiles": [
+    "IT/Etc/Ripasso Informatica 3-4.md",
     "History/Storia Capitoli 20 - 21.md",
     "History/Richelieu e Mazzarino.md",
     "IT/Language specific notes/Java.md",
-    "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Language specific notes/C++.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "Obsidian stuff.md",
