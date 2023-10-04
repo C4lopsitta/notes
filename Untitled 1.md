@@ -47,3 +47,6 @@ ashaeradgf \\
 adsg
 \end{cases}
 $$
+$$
+\lim_{0->\infty} 54332526984ybdx = \frac{65}{x}
+$$
