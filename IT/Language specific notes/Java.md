@@ -179,7 +179,7 @@ Penguin --|> Animal
 Tux --|> Penguin
 ```
 No matter what you do, all classes extend the default mother class `Object`.
-In `Java` tho you cannot do multiple inheritance.
+In `Java` tho you cannot do multiple inheritance. 
 
 Casting classes:
 ```Java

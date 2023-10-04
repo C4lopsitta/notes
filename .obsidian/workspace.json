@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "file": "IT/Etc/Ripasso Informatica 3-4.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c195719bb1f37ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,21 +182,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e3ee3e5d29f2f37d",
+  "active": "7c195719bb1f37ba",
   "lastOpenFiles": [
+    "History/Storia Capitoli 20 - 21.md",
+    "History/Richelieu e Mazzarino.md",
+    "IT/Language specific notes/Java.md",
+    "IT/Etc/Ripasso Informatica 3-4.md",
+    "IT/Language specific notes/C++.md",
+    "IT/Object Oriented Programming/The UML Diagram.md",
+    "Obsidian stuff.md",
+    "Untitled 2.md",
     "IT/UMLs/Car UML.md",
     "Untitled 1.md",
     "Untitled.md",
     "TPSIT/Threads.md",
     "TPSIT/Processes.md",
-    "IT/Object Oriented Programming/The UML Diagram.md",
-    "IT/Language specific notes/Java.md",
     "Telecomms/Lab safety.md",
     "Recording 20231003120612.webm",
     "Telecomms/Revision 3rd year.md",
-    "History/Storia Capitoli 20 - 21.md",
-    "Untitled 2.md",
-    "History/Richelieu e Mazzarino.md",
     "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "Fullpage OS.md",
@@ -208,8 +213,6 @@
     "IT/Object Oriented Programming.md",
     "IT/UMLs",
     "IT/Untitled.md",
-    "Java Visibility.md",
-    "IT/Language specific notes/The C programming language.md",
     "IT/Language specific notes/C",
     "IT/Etc",
     "IT/Object Oriented Programming",
