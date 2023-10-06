@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8308b3413e9dadba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51cae1f8b9d22f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Storia Capitoli 20 - 21.md",
+                "file": "Telecomms/Harduino Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d39d4b9f3effe94",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Storia Capitoli 20 - 21.md",
+                "file": "Telecomms/Harduino Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Storia Capitoli 20 - 21.md",
+                "file": "Telecomms/Harduino Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Storia Capitoli 20 - 21.md"
+                "file": "Telecomms/Harduino Project.md"
               }
             }
           },
@@ -156,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "History/Storia Capitoli 20 - 21.md"
+                "file": "Telecomms/Harduino Project.md"
               }
             }
           }
@@ -183,6 +171,7 @@
   "active": "51cae1f8b9d22f49",
   "lastOpenFiles": [
     "History/Untitled.md",
+    "Telecomms/Harduino Project.md",
     "History/Storia Capitoli 20 - 21.md",
     "History/Richelieu e Mazzarino.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
@@ -209,7 +198,6 @@
     "IT/UMLs/Books UML.md",
     "IT/Glossary.md",
     "IT/From Code to Execution.md",
-    "IT/Object Oriented Programming.md",
     "IT/UMLs",
     "IT/Language specific notes/C",
     "IT/Etc",
