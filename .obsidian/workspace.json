@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Language specific notes/Java Files.md",
+                "file": "IT/Language specific notes/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Language specific notes/Java Files.md",
+                "file": "IT/Language specific notes/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Language specific notes/Java Files.md",
+                "file": "IT/Language specific notes/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Language specific notes/Java Files.md"
+                "file": "IT/Language specific notes/Java.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Language specific notes/Java Files.md"
+                "file": "IT/Language specific notes/Java.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "e4c15a9db234e210",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
+    "IT/Language specific notes/Java.md",
     "Telecomms/Harduino Project.md",
     "History/Untitled.md",
     "History/Storia Capitoli 20 - 21.md",

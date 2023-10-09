@@ -16,6 +16,10 @@ Constructors are a special method that is a Class Method and you usually find tw
    }
 ```
 Every class is the son of the mother class `Object`
+
+## .class
+Every class has a `Class.class` that contains the structure of the object.
+
 # Visibility
 ## Public
 
@@ -58,6 +62,9 @@ A constant in Java can be declared with the `final` keyword. Example:
 ```Java
 public final int AwnserToAllQuestions = 42;
 ```
+
+## Final Classes
+A class defined as final cannot be extended.
 ## Boxing
 Boxing is when you take a primitive type and box it inside a class that only has the primitive type inside. Example:.
 ```mermaid
@@ -205,3 +212,6 @@ Exceptions in Java can be thrown by methods if they have an exception throws:
 public void myMethod() throws Exception{}_
 ```
 Exceptions can also be thrown by using the `throw` keyword.
+
+## Factory method
+A constructor that on fail doesn't throw an error.

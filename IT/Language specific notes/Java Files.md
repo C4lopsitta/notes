@@ -23,4 +23,4 @@ Json can be worked on by the **gson** jar library from Google available on Maven
 Class with decorators used by the marshaller to generate the objects.
 
 # XML In Java
-`JAXP` (in `JEE`)      
+`JAXP` (in `JEE`)
