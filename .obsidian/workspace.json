@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf17af938dd9635",
+        "id": "b32dcaa8a908400f",
         "type": "tabs",
         "children": [
           {
-            "id": "51cae1f8b9d22f49",
+            "id": "e4c15a9db234e210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomms/Harduino Project.md",
+                "file": "IT/Language specific notes/Java Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d39d4b9f3effe94",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomms/Harduino Project.md",
+                "file": "IT/Language specific notes/Java Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomms/Harduino Project.md",
+                "file": "IT/Language specific notes/Java Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomms/Harduino Project.md"
+                "file": "IT/Language specific notes/Java Files.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Telecomms/Harduino Project.md"
+                "file": "IT/Language specific notes/Java Files.md"
               }
             }
           }
@@ -167,14 +168,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "51cae1f8b9d22f49",
+  "active": "e4c15a9db234e210",
   "lastOpenFiles": [
-    "History/Untitled.md",
+    "IT/Language specific notes/Java.md",
+    "IT/Language specific notes/Java Files.md",
     "Telecomms/Harduino Project.md",
+    "History/Untitled.md",
     "History/Storia Capitoli 20 - 21.md",
     "History/Richelieu e Mazzarino.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
-    "IT/Language specific notes/Java.md",
     "IT/Language specific notes/C++.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "Obsidian stuff.md",
@@ -196,7 +198,6 @@
     "TPSIT/Environment setup.md",
     "IT/UMLs/Books UML.md",
     "IT/Glossary.md",
-    "IT/From Code to Execution.md",
     "IT/UMLs",
     "IT/Language specific notes/C",
     "IT/Etc",
