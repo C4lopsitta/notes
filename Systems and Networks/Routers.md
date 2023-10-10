@@ -26,16 +26,11 @@ The TCP/IP protocol is an implementation of [[#The ISO/OSI model]] that groups t
 Routing tables are made by the router by pinging every so often other routers to share it's own current status and get that router's status.
 
 # Subnet Masks
-- Subnet mask for class C: 255.255.255.0
-- Subnet mask for class B: 255.255.0.0
 - Subnet mask for class A: 255.0.0.0
+- Subnet mask for class B: 255.255.0.0
+- Subnet mask for class C: 255.255.255.0
 Those zeroes can also be other values. In the case those aren't zeroes it means that the LAN has been partitioned into subnets.
 ## Particular notation for subnet masks
 - Class A is /8
 - Class B is /16
 - Class C is /24
-
-1. 196.148.12.0
-   Class C; 255.255.255.0 /24
-2. subnet mask: 255.255.255.240 /28 (24+4)
-3. 

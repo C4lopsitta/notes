@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "Systems and Networks/Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d39d4b9f3effe94",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "Systems and Networks/Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "Systems and Networks/Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           }
@@ -153,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,20 +168,20 @@
   },
   "active": "e4c15a9db234e210",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java Files.md",
+    "History/Storia Capitoli 20 - 21.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "IT/Language specific notes/Java.md",
+    "IT/Language specific notes/Java Files.md",
     "Telecomms/Harduino Project.md",
     "History/Untitled.md",
-    "History/Storia Capitoli 20 - 21.md",
     "History/Richelieu e Mazzarino.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Language specific notes/C++.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "Obsidian stuff.md",
-    "Untitled 2.md",
     "IT/UMLs/Car UML.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "TPSIT/Threads.md",
     "TPSIT/Processes.md",
     "Telecomms/Lab safety.md",
