@@ -42,6 +42,7 @@ Luigi seguiva l'idea del **Un solo Re, un solo dio, una sola religione** per uni
 Il papa per evitare un'altra scissione della chiesa cristiana si alleò con la Francia per sconfiggere la setta dei **Giansenisti**. Venne soppressa perché questa setta non accettava le scale gerarchiche della chiesa o dello stato francese.
 # La morte di Luigi XIV
 Alla morte di Luigi XIV nel 1718 il popolo ed i nobili erano generalmente felici. I nobili erano ora però poveri dopo aver sperperato denaro nelle corti. I borghesi perdono i vantaggi che avevano precedentemente guadagnato.
+[[Il resto d'europa nel periodo Assolutista|L'Assolutismo francese viene però preso come esempio da molti altri stati Europei.]]
 
 
 
