@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b6ea775d782c5865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/L'Assolutismo Francese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e4c15a9db234e210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems and Networks/Routers.md",
+                "file": "History/Le guerre francesi durante al regno di Luigi XIV.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems and Networks/Routers.md",
+                "file": "History/L'Assolutismo Francese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems and Networks/Routers.md",
+                "file": "History/L'Assolutismo Francese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems and Networks/Routers.md"
+                "file": "History/L'Assolutismo Francese.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Systems and Networks/Routers.md"
+                "file": "History/L'Assolutismo Francese.md"
               }
             }
           }
@@ -166,16 +178,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e4c15a9db234e210",
+  "active": "b6ea775d782c5865",
   "lastOpenFiles": [
+    "History/Le guerre francesi durante al regno di Luigi XIV.md",
+    "History/L'Assolutismo Francese.md",
     "History/Storia Capitoli 20 - 21.md",
+    "Systems and Networks/Routers.md",
     "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
     "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
     "Telecomms/Harduino Project.md",
-    "History/Untitled.md",
     "History/Richelieu e Mazzarino.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Language specific notes/C++.md",
@@ -187,7 +201,6 @@
     "Telecomms/Lab safety.md",
     "Recording 20231003120612.webm",
     "Telecomms/Revision 3rd year.md",
-    "Systems and Networks/Routers.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "Fullpage OS.md",
     "Recording 20230926131111.webm",
@@ -195,7 +208,6 @@
     "TPSIT/Resources in Parallel Processing.md",
     "TPSIT/Environment setup.md",
     "IT/UMLs/Books UML.md",
-    "IT/Glossary.md",
     "IT/UMLs",
     "IT/Language specific notes/C",
     "IT/Etc",
