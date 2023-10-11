@@ -1,4 +1,13 @@
 # La guerra di Devoluzione
+La guerra di Devoluzione scoppia con la Spagna e dura dal **1667** al **1668**.
+Dopo alla morte di **Filippo IV**, Re di Spagna, vuole ottenere dei territori Spagnoli sfruttando la **Legge di Devoluzione** dei **Paesi Bassi**. La vuole utilizzare dato che era sposato con la figlia del re e questa legge dichiarava che il primogenito, maschio o femmina, avrebbe avuto comunque diritto all'eredità di territori. Dopo 1 anno di combattimenti la Francia ottenne **Le fiandre** ed altri territori nell'est. Termina con **la Pace di Aquisgrana** dopo che l'Olanda, alleata con l'Inghilterra e l'Inghilterra perché spaventata dall'espansione Francese, la obbligò a fermare i combattimenti. Con la pace dovette restituire **La franca contea** che aveva appena riconquistato un'anno prima.
 # La guerra contro l'Olanda
+Dopo al[[#La guerra di Devoluzione]] l'Olanda iniziò ad armarsi per difendersi da un potenziale attacco Francese. Nel **1672** la Francia attacca l'Olanda che era alleata con l'Inghilterra dato il comune interesse di arrestare l'avanzata francese e combattono fino al **1778**. Con questa guerra riottenne il controllo della **Franca Contea**.
 # La guerra contro la Lega d'Augusta
+La Francia si sentiva accerchiata da **Guglielmo d'Orange**, Re d'Inghilterra e primo ministro d'Olanda. Guglielmo fonda la **Lega d'Augusta** formata dai suoi territori più il Regno di Savoia, daIl'Impero Germanico, dalla Svezia e dalla Francia.
+Ovviamente la Francia perde e dovette cedere l'Alsazia e la Lorena che aveva precedentemente vinto durante [[Storia Capitoli 20 - 21#La guerra dei trent'anni|alla Guerra dei Trent'Anni]].
 # La guerra di Successione Spagnola
+A partire dal **1701** fino al **1714** la Francia entra in guerra con la Spagna perché il Re **Carlo II** di Spagna era senza eredi e dovette dare il trono al nipote di Luigi XIV, **Filippo di Borbone**. Data la parentela tra Filippo e Luigi, Carlo fece promettere a Filippo che non avrebbe unificato i territori Spagnoli a quelli Francesi dato che Carlo II era un'Asburgo. Luigi spinge comunque Filippo di Borbone verso all'unificazione dando via alla guerra tra l'Impero e la Francia.
+Questa dura fino al **1714** e si concluse con due trattati: **Il trattato di Utrecht** del 1713 ed il **trattato di Rastard** del 1714.
+Dopo a questa guerra, l'Inghilterra ottenne Gibilterra e l'isola di Minorca; i Savoia ottennero il regno di Sicilia mentre gli Asburgo i territori in sud Italia più la Sardegna.
+Nel **1720** per interessi dei Savoia, gli Asburgo d'Austria ed i Savoia scambiano la Sicilia con la Sardegna.

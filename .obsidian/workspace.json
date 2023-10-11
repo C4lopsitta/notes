@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/L'Assolutismo Francese.md",
+                "file": "History/Le guerre francesi durante al regno di Luigi XIV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/L'Assolutismo Francese.md",
+                "file": "History/Le guerre francesi durante al regno di Luigi XIV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/L'Assolutismo Francese.md"
+                "file": "History/Le guerre francesi durante al regno di Luigi XIV.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "History/L'Assolutismo Francese.md"
+                "file": "History/Le guerre francesi durante al regno di Luigi XIV.md"
               }
             }
           }
@@ -178,10 +179,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b6ea775d782c5865",
+  "active": "e4c15a9db234e210",
   "lastOpenFiles": [
-    "History/Le guerre francesi durante al regno di Luigi XIV.md",
     "History/L'Assolutismo Francese.md",
+    "History/Le guerre francesi durante al regno di Luigi XIV.md",
     "History/Storia Capitoli 20 - 21.md",
     "Systems and Networks/Routers.md",
     "Untitled 2.md",
