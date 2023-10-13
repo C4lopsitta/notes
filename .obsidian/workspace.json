@@ -11,8 +11,12 @@
             "id": "761e58ea3271cf7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Telecomms/Revision 3rd year.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Telecomms/Revision 3rd year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Telecomms/Revision 3rd year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Telecomms/Revision 3rd year.md"
+              }
             }
           },
           {
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Telecomms/Revision 3rd year.md"
+              }
             }
           }
         ],
@@ -158,6 +168,8 @@
   },
   "active": "761e58ea3271cf7b",
   "lastOpenFiles": [
+    "Telecomms/Lab safety.md",
+    "Telecomms/Harduino Project.md",
     "History/Le guerre francesi durante al regno di Luigi XIV.md",
     "History/Il resto d'europa nel periodo Assolutista.md",
     "History/L'Assolutismo Francese.md",
@@ -169,7 +181,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "IT/Language specific notes/Java.md",
-    "Telecomms/Harduino Project.md",
     "History/Richelieu e Mazzarino.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Language specific notes/C++.md",
@@ -178,7 +189,6 @@
     "IT/UMLs/Car UML.md",
     "TPSIT/Threads.md",
     "TPSIT/Processes.md",
-    "Telecomms/Lab safety.md",
     "Recording 20231003120612.webm",
     "Telecomms/Revision 3rd year.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",

@@ -61,3 +61,4 @@ in a generic bi pole device with current flowing from $B$ to $A$. So $V_{BA}=-V_
 
 ### Applying the theory to a Circuit
 *Check note on tablet, Screen off note of September 26 at 12:36, diagram 1*. 
+
