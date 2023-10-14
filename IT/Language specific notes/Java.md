@@ -145,7 +145,7 @@ public enum PokemonFamily{
 	WATER,
 	PLANT,
 	...
-	STONE
+	STONE;
 }
 ```
 To reference this enumeration you just use it as a class:.

@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/UMLs/Car UML.md",
+                "file": "IT/Language specific notes/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/UMLs/Car UML.md",
+                "file": "IT/Language specific notes/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/UMLs/Car UML.md"
+                "file": "IT/Language specific notes/Java.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/UMLs/Car UML.md"
+                "file": "IT/Language specific notes/Java.md"
               }
             }
           }
@@ -191,10 +190,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "45ff2ad1779c69da",
+  "active": "761e58ea3271cf7b",
   "lastOpenFiles": [
-    "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/UMLs/Car UML.md",
+    "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "IT/Language specific notes/Java.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
