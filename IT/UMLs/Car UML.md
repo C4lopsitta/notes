@@ -60,7 +60,7 @@ class Owner{
 	- name: String
 	- surname: String
 	- lastId: Integer$
-	- cars: List~Car~
+	- cars: ArrayList~Car~
 
 
 	+ Owner()
