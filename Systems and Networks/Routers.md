@@ -48,3 +48,13 @@ Those zeroes can also be other values. In the case those aren't zeroes it means 
 | `209.10.20.160`   | `209.10.20.191`     |
 | `209.10.20.192`   | `209.10.20.223`     |
 | `209.10.20.224`   | `209.10.20.255`     |
+
+## Logical and Physical topology
+The logical structure describes how data transits in the physical topology.
+Page 8 standards table.
+IEEE 802.
+
+
+
+
+

@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20e1e8be2f047363",
+        "id": "ecca1b17cea48a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "761e58ea3271cf7b",
+            "id": "e297c50032eccfbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcfcea6f4216ec93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TPSIT/Processes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45ff2ad1779c69da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/UMLs/Car UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1aa1bc863946ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Object Oriented Programming/The UML Diagram.md",
+                "file": "Systems and Networks/Routers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPSIT/Processes.md",
+                "file": "Systems and Networks/Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TPSIT/Processes.md",
+                "file": "Systems and Networks/Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TPSIT/Processes.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           },
@@ -180,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TPSIT/Processes.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           }
@@ -189,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,9 +167,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fcfcea6f4216ec93",
+  "active": "e297c50032eccfbf",
   "lastOpenFiles": [
     "IT/Language specific notes/Java.md",
+    "TPSIT/Processes.md",
     "IT/UMLs/Car UML.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
@@ -227,7 +192,6 @@
     "IT/Language specific notes/C++.md",
     "Obsidian stuff.md",
     "TPSIT/Threads.md",
-    "TPSIT/Processes.md",
     "Recording 20231003120612.webm",
     "Fullpage OS.md",
     "Recording 20230926131111.webm",
