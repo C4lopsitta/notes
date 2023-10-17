@@ -55,6 +55,3 @@ Page 8 standards table.
 IEEE 802.
 
 
-
-
-
