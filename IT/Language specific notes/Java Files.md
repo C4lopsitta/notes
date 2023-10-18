@@ -24,3 +24,19 @@ Class with decorators used by the marshaller to generate the objects.
 
 # XML In Java
 `JAXP` (in `JEE`)
+
+# XLSX/XLS
+Excel formats.
+Lib:
+**Apache POI** (Apache Poor Obfuscation Implementation)
+HSSF
+XSSF => horrible spreadsjit format
+HSSFWorkbook => file
+HSSFSheet => sheet
+HSSFRow
+HSSFCell
+Main interface for these:
+Workbook
+Sheet
+Row
+Cell
