@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "Systems and Networks/Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "Systems and Networks/Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "Systems and Networks/Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "Systems and Networks/Routers.md"
               }
             }
           }
@@ -169,6 +169,8 @@
   },
   "active": "3b3f1317f9932079",
   "lastOpenFiles": [
+    "TPSIT/Sockets.md",
+    "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
     "TPSIT/Processes.md",
     "History/Il resto d'europa nel periodo Assolutista.md",
@@ -176,7 +178,6 @@
     "History/Le guerre francesi durante al regno di Luigi XIV.md",
     "History/Storia Capitoli 20 - 21.md",
     "Systems and Networks/Routers.md",
-    "IT/Language specific notes/Java.md",
     "IT/UMLs/Car UML.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
@@ -197,7 +198,6 @@
     "Recording 20230926131111.webm",
     "TPSIT/Programma TPSIT.md",
     "TPSIT/Resources in Parallel Processing.md",
-    "TPSIT/Environment setup.md",
     "IT/UMLs",
     "IT/Language specific notes/C",
     "IT/Etc",

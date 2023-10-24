@@ -12,6 +12,10 @@ The layers are:
 5. Session
 6. Presentation
 7. Application
+Bitches added two sublevels tho:
+1. LLC (Makes packages to ship to MAC)
+2. MAC (Machine Access Control)
+These adapt stuff from the top (check on book)
 ## The TCP/IP Protocol
 The TCP/IP protocol is an implementation of [[#The ISO/OSI model]] that groups the 7 layers into 4 which are the following:
 1. Application (layers 7 and 6)
