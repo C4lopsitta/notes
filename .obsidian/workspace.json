@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3e8d38c7567a74",
+        "id": "dc4b2418b83696c7",
         "type": "tabs",
         "children": [
           {
-            "id": "3b3f1317f9932079",
+            "id": "f7ccf60545c820b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems and Networks/Routers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems and Networks/Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems and Networks/Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Systems and Networks/Routers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Systems and Networks/Routers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +167,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3b3f1317f9932079",
+  "active": "f7ccf60545c820b3",
   "lastOpenFiles": [
+    "Systems and Networks/Routers.md",
     "TPSIT/Sockets.md",
     "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
@@ -187,7 +178,6 @@
     "History/L'Assolutismo Francese.md",
     "History/Le guerre francesi durante al regno di Luigi XIV.md",
     "History/Storia Capitoli 20 - 21.md",
-    "Systems and Networks/Routers.md",
     "IT/UMLs/Car UML.md",
     "IT/Etc/Ripasso Informatica 3-4.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
