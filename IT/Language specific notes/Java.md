@@ -215,3 +215,6 @@ Exceptions can also be thrown by using the `throw` keyword.
 
 ## Factory method
 A constructor that on fail doesn't throw an error.
+
+# Singlet
+Only one instance is allowed of that class at all times.
