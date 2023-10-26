@@ -11,8 +11,12 @@
             "id": "f7ccf60545c820b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 2.md"
+              }
             }
           },
           {
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Untitled 2.md"
+              }
             }
           },
           {
@@ -167,37 +177,37 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2440ad62c75ab15b",
+  "active": "f7ccf60545c820b3",
   "lastOpenFiles": [
-    "Systems and Networks/Routers.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Fullpage OS.md",
+    "Obsidian stuff.md",
+    "TPSIT/Threads.md",
     "TPSIT/Sockets.md",
-    "IT/Language specific notes/Java.md",
-    "IT/Language specific notes/Java Files.md",
+    "TPSIT/Resources in Parallel Processing.md",
+    "TPSIT/Programma TPSIT.md",
     "TPSIT/Processes.md",
-    "History/Il resto d'europa nel periodo Assolutista.md",
-    "History/L'Assolutismo Francese.md",
-    "History/Le guerre francesi durante al regno di Luigi XIV.md",
-    "History/Storia Capitoli 20 - 21.md",
-    "IT/UMLs/Car UML.md",
-    "IT/Etc/Ripasso Informatica 3-4.md",
-    "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
-    "IT/Object Oriented Programming/The UML Diagram.md",
     "Telecomms/Revision 3rd year.md",
     "Telecomms/Lab safety.md",
     "Telecomms/Harduino Project.md",
+    "Systems and Networks/Routers.md",
+    "IT/Programming languages.md",
+    "IT/Object Oriented Programming.md",
+    "IT/Glossary.md",
+    "IT/From Code to Execution.md",
+    "IT/UMLs/Car UML.md",
+    "IT/UMLs/Books UML.md",
+    "IT/Programming Todo/Battleship.md",
+    "IT/Object Oriented Programming/The UML Diagram.md",
+    "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
+    "IT/Language specific notes/Java Files.md",
+    "IT/Language specific notes/The C programming language.md",
+    "IT/Language specific notes/Java.md",
     "History/Untitled",
-    "Untitled 2.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "History/Richelieu e Mazzarino.md",
-    "IT/Language specific notes/C++.md",
-    "Obsidian stuff.md",
-    "TPSIT/Threads.md",
     "Recording 20231003120612.webm",
-    "Fullpage OS.md",
     "Recording 20230926131111.webm",
-    "TPSIT/Programma TPSIT.md",
-    "TPSIT/Resources in Parallel Processing.md",
     "IT/UMLs",
     "IT/Language specific notes/C",
     "IT/Etc",
