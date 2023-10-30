@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91270f1af0c77b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "IT/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
+                "file": "IT/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "IT/Databases.md"
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Language specific notes/Java.md"
+                "file": "IT/Databases.md"
               }
             }
           },
@@ -177,8 +190,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f7ccf60545c820b3",
+  "active": "91270f1af0c77b25",
   "lastOpenFiles": [
+    "IT/Language specific notes/Java.md",
+    "IT/Databases.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -203,8 +218,6 @@
     "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
     "IT/Language specific notes/Java Files.md",
-    "IT/Language specific notes/The C programming language.md",
-    "IT/Language specific notes/Java.md",
     "History/Untitled",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
