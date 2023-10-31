@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4b2418b83696c7",
+        "id": "aa30280159394fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ccf60545c820b3",
+            "id": "7905e21ebb1bc9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Language specific notes/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91270f1af0c77b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Databases.md",
+                "file": "Telecomms/Pre-Test things.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Databases.md",
+                "file": "Telecomms/Pre-Test things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Databases.md",
+                "file": "Telecomms/Pre-Test things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Databases.md"
+                "file": "Telecomms/Pre-Test things.md"
               }
             }
           },
@@ -156,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Databases.md"
+                "file": "Telecomms/Pre-Test things.md"
               }
             }
           },
@@ -190,10 +177,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "91270f1af0c77b25",
+  "active": "7905e21ebb1bc9f6",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java.md",
+    "Telecomms/Revision 3rd year.md",
+    "Telecomms/Pre-Test things.md",
     "IT/Databases.md",
+    "IT/Language specific notes/Java.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -204,7 +193,6 @@
     "TPSIT/Resources in Parallel Processing.md",
     "TPSIT/Programma TPSIT.md",
     "TPSIT/Processes.md",
-    "Telecomms/Revision 3rd year.md",
     "Telecomms/Lab safety.md",
     "Telecomms/Harduino Project.md",
     "Systems and Networks/Routers.md",
@@ -217,7 +205,6 @@
     "IT/Programming Todo/Battleship.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Object Oriented Programming/Object Oriented Programming common practices.md",
-    "IT/Language specific notes/Java Files.md",
     "History/Untitled",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
