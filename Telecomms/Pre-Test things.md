@@ -48,3 +48,4 @@ Meshes are groups of nodes that are crossed once
 ## Star meshes
 
 ## Triangular meshes
+A triangular mesh has three nodes and no more external connections.
