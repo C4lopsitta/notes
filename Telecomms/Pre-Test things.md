@@ -43,3 +43,8 @@ $$
 V_1+V_2+V_n = V_3+V_4+V_n
 $$
 A graph of this has been drawn on the 31 of October at 11:50 on Tab S6 Lite Off Screen Notes.
+# Meshes
+Meshes are groups of nodes that are crossed once
+## Star meshes
+
+## Triangular meshes
