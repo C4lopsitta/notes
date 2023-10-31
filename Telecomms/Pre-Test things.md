@@ -49,3 +49,6 @@ Meshes are groups of nodes that are crossed once
 TODO: Add calculations
 ## Triangular meshes
 A triangular mesh has three nodes and no more external connections.
+# Tension Generators
+## Ideal Generator
+Represented by a circle and a line. It generates as much current as it's written it generates. It has an arrow to show the direction.
