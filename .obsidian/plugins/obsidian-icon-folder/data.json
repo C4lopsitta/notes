@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasDiagramProject",
+      "FasBook",
+      "FasComputer",
+      "FasFlag",
+      "FasCalculator"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -18,5 +24,12 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false
-  }
+  },
+  "Telecomms": "FasWifi",
+  "Systems and Networks": "FasNetworkWired",
+  "Maths": "FasCalculator",
+  "Italian": "FasFlag",
+  "IT": "FasComputer",
+  "History": "FasBook",
+  "TPSIT": "FasDiagramProject"
 }
