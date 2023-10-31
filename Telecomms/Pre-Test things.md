@@ -38,6 +38,8 @@ $$
 i_{incoming_1}+i_{\dots}=i_{outgoing_1}+i_{\dots}
 $$
 ## Second Law
-The second law defines that the tension incoming into a mesh is equivalent to the outgoing tension 
-## Mesh
-A mesh is group of nodes that are crossed only once 
+The second law defines that the tension incoming into a mesh is equivalent to the outgoing tension.
+$$
+V_1+V_2+V_n = V_3+V_4+V_n
+$$
+A graph of this has been drawn on the 31 of October at 11:50 on Tab S6 Lite Off Screen Notes.
