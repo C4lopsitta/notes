@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDatabase",
       "FasDiagramProject",
       "FasBook",
       "FasComputer",
-      "FasFlag",
-      "FasCalculator"
+      "FasFlag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,6 @@
   "Italian": "FasFlag",
   "IT": "FasComputer",
   "History": "FasBook",
-  "TPSIT": "FasDiagramProject"
+  "TPSIT": "FasDiagramProject",
+  "IT/Databases.md": "FasDatabase"
 }
