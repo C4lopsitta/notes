@@ -1,6 +1,6 @@
 ## Compilation
 ```mermaid
-flowchart TD
+flowchart LR
 
 Source --> Compiler
 Compiler --> Linker
@@ -8,13 +8,13 @@ Linker --> Binary
 ```
 ## Interpretation
 ```mermaid
-flowchart TD
+flowchart LR
 Source --> Interpreter
 Interpreter --> Machine
 ```
 ## Bytecode
 ```mermaid
-flowchart TD
+flowchart LR
 A["Intermediate Language"]
 B["Runtime Enviroment"]
 

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasDatabase",
-      "FasDiagramProject",
-      "FasBook",
-      "FasComputer",
-      "FasFlag"
+      "FasObjectGroup",
+      "FasLanguage",
+      "FasPlay",
+      "FasBookBookmark",
+      "FasC"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,15 @@
   "IT": "FasComputer",
   "History": "FasBook",
   "TPSIT": "FasDiagramProject",
-  "IT/Databases.md": "FasDatabase"
+  "IT/Databases.md": "FasDatabase",
+  "IT/UMLs": "FasDiagramPredecessor",
+  "IT/Programming Todo": "FarSquareCheck",
+  "IT/Object Oriented Programming": "FasObjectGroup",
+  "IT/Language specific notes/Java.md": "FabJava",
+  "IT/Language specific notes/C": "FasC",
+  "IT/Language specific notes/C++.md": "FasC",
+  "IT/Glossary.md": "FasBookBookmark",
+  "IT/From Code to Execution.md": "FasPlay",
+  "IT/Programming languages.md": "FasLanguage",
+  "IT/Object Oriented Programming.md": "FasObjectGroup"
 }

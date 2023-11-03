@@ -58,3 +58,20 @@ In SQL Lite:
   INSERT INTO tableName VALUES(value1, value2, value3);
 ```
 If `null` is used instead of a value, the automatic value will be used.
+- Check
+  ```SQL
+  CHECK(query)
+```
+- Select
+  ```SQL
+  SELECT * FROM table;
+```
+Selects everything
+```SQL
+SELECT column, column FROM table;
+```
+Selects specific columns
+- Where:
+  ```sql
+  ... WHERE column CONDITION
+```
