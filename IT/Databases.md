@@ -38,7 +38,7 @@ I DONT KNOW
 ```
 ### Data types
 In SQL Lite:
-- `INT`
+- `INT` / `INTEGER`
 - `TEXT`
 ## Commands
 - Create:
@@ -65,13 +65,35 @@ If `null` is used instead of a value, the automatic value will be used.
 - Select
   ```SQL
   SELECT * FROM table;
-```
-Selects everything
-```SQL
-SELECT column, column FROM table;
-```
-Selects specific columns
+  ```
+	Selects everything
+	```SQL
+	SELECT column, column FROM table;
+	```
+	Selects specific columns
 - Where:
   ```sql
   ... WHERE column CONDITION
-```
+	```
+- Set foreign key enforcement:
+```sql
+PRAGMA FOREIGN_KEYS = "ON";
+	```
+- Delete
+	```sql
+	DELETE FROM table WHERE ...
+	```
+- Join
+	Selects all rows across multiple tables making a joined thing and shows only the stuff that matches a condition
+	```sql
+	SELECT studenti.*, voti.* FROM voti INNER JOIN studenti;
+	```
+	Joins all columns no matter what. To select all the touples that share an attribute:
+	```sql
+	SELECT studenti.*, voti.* FROM voti INNER JOIN studenti 
+		ON studenti.matricola = voti.matricola;
+	```
+- Select multiple
+	```sql
+	SELECT table1.*, table2.* FROM table1,table2 WHERE ...;
+	```
