@@ -49,6 +49,13 @@ Meshes are groups of nodes that are crossed once
 TODO: Add calculations
 ## Triangular meshes
 A triangular mesh has three nodes and no more external connections.
+## Star <=> Triangular
+If all resistances are equivalent:
+$$
+3\cdot r_{star} = r_{triangle}
+$$
+Where $r_{triangle}$ represents the resistance between any two vertices.
+
 # Tension Generators
 ## Ideal Generator
 Represented by a circle and a line. It generates as much current as it's written it generates. It has an arrow to show the direction.
