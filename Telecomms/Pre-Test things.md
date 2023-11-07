@@ -46,9 +46,23 @@ A graph of this has been drawn on the 31 of October at 11:50 on Tab S6 Lite Off 
 # Meshes
 Meshes are groups of nodes that are crossed once
 ## Star meshes
-TODO: Add calculations
+From triangle
+$$
+\begin{cases}
+r_a = \frac{R_{AB}\cdot R_{AC}}{R_{AC}+R_{AB}+R_{BC}} \\
+r_b = \frac{R_{AB}\cdot R_{BC}}{R_{AC}+R_{AB}+R_{BC}} \\
+r_c = \frac{R_{AC}\cdot R_{BC}}{R_{AC}+R_{AB}+R_{BC}}
+\end{cases}
+$$
 ## Triangular meshes
-A triangular mesh has three nodes and no more external connections.
+From star
+$$
+\begin{cases}
+R_{AB} = \frac{r_Ar_B+r_Br_C+r_Cr_A}{r_C} \\
+R_{BC} = \frac{r_Ar_B+r_Br_C+r_Cr_A}{r_A} \\
+R_{AC} = \frac{r_Ar_B+r_Br_C+r_Cr_A}{r_B}
+\end{cases}
+$$
 ## Star <=> Triangular
 If all resistances are equivalent:
 $$
