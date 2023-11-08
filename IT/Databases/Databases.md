@@ -17,6 +17,10 @@ SQL is a **Data Definition Language** that defines a set of instructions to work
 It's also a **Data Manipulation Language** which is like the Data Definition Language but allows instead to fill, edit and delete touples.
 Then we have a **Query Language** which is how you query requests from the database.
 Lastly, the **Data Control Language** allows to check access permissions for tables.
+## SQLite
+SQLite has only one file for multiple tables. It has whatever extension you want.
+### SQLite GUI
+SQLite Browser
 ## Schema structure
 Follows an example (SQL Lite)
 ```sql

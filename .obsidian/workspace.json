@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomms/Pre-Test things.md",
+                "file": "IT/Databases/Connecting SQLite to Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d7a09d0dcc96e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Databases/Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c609efcbd2f998b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Language specific notes/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomms/Pre-Test things.md",
+                "file": "IT/Databases/Connecting SQLite to Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomms/Pre-Test things.md",
+                "file": "IT/Databases/Connecting SQLite to Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomms/Pre-Test things.md"
+                "file": "IT/Databases/Connecting SQLite to Java.md"
               }
             }
           },
@@ -143,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Telecomms/Pre-Test things.md"
+                "file": "IT/Databases/Connecting SQLite to Java.md"
               }
             }
           },
@@ -179,16 +203,18 @@
   },
   "active": "7bb228c046375a4a",
   "lastOpenFiles": [
-    "Untitled 3.md",
+    "IT/Databases/Databases.md",
+    "IT/Databases/Connecting SQLite to Java.md",
+    "IT/Language specific notes/Java.md",
+    "IT/Language specific notes/Java Files.md",
+    "IT/Databases",
     "Telecomms/Pre-Test things.md",
+    "Untitled 3.md",
     "Telecomms/Lab safety.md",
-    "IT/Databases.md",
     "IT/From Code to Execution.md",
     "IT/Glossary.md",
     "IT/Programming languages.md",
-    "IT/Language specific notes/Java Files.md",
     "Telecomms/Revision 3rd year.md",
-    "IT/Language specific notes/Java.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -204,7 +230,6 @@
     "IT/Object Oriented Programming.md",
     "IT/UMLs/Car UML.md",
     "IT/UMLs/Books UML.md",
-    "IT/Programming Todo/Battleship.md",
     "History/Untitled",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
@@ -214,7 +239,6 @@
     "IT/Object Oriented Programming",
     "IT/Functional Programming",
     "IT/Language specific notes",
-    "Telecomms",
     "Untitled.canvas"
   ]
 }

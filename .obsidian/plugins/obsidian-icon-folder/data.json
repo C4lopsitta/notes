@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabJava",
+      "FasDatabase",
       "FasObjectGroup",
       "FasLanguage",
-      "FasPlay",
-      "FasBookBookmark",
-      "FasC"
+      "FasPlay"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
   "IT": "FasComputer",
   "History": "FasBook",
   "TPSIT": "FasDiagramProject",
-  "IT/Databases.md": "FasDatabase",
   "IT/UMLs": "FasDiagramPredecessor",
   "IT/Programming Todo": "FarSquareCheck",
   "IT/Object Oriented Programming": "FasObjectGroup",
@@ -42,5 +41,8 @@
   "IT/Glossary.md": "FasBookBookmark",
   "IT/From Code to Execution.md": "FasPlay",
   "IT/Programming languages.md": "FasLanguage",
-  "IT/Object Oriented Programming.md": "FasObjectGroup"
+  "IT/Object Oriented Programming.md": "FasObjectGroup",
+  "IT/Databases": "FasDatabase",
+  "IT/Databases/Databases.md": "FasDatabase",
+  "IT/Databases/Connecting SQLite to Java.md": "FabJava"
 }

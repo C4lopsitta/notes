@@ -28,7 +28,7 @@ Class with decorators used by the marshaller to generate the objects.
 # XLSX/XLS
 Excel formats.
 Lib:
-**Apache POI** (Apache Poor Obfuscation Implementation)
+**Apache POI** (Apache Poorly Obfuscation Implementation)
 HSSF
 XSSF => horrible spreadsjit format
 HSSFWorkbook => file
@@ -40,3 +40,7 @@ Workbook
 Sheet
 Row
 Cell
+
+Libraries other than POI: XPath
+
+
