@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "62579c1c40348da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Language specific notes/Java Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92d7a09d0dcc96e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IT/Databases/Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "049fd3b81385cdba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Databases/Connecting SQLite to Java.md",
+                "file": "IT/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Databases/Connecting SQLite to Java.md",
+                "file": "IT/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Databases/Connecting SQLite to Java.md"
+                "file": "IT/Glossary.md"
               }
             }
           },
@@ -167,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Databases/Connecting SQLite to Java.md"
+                "file": "IT/Glossary.md"
               }
             }
           },
@@ -201,12 +226,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7bb228c046375a4a",
+  "active": "049fd3b81385cdba",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java.md",
     "IT/Databases/Databases.md",
-    "IT/Databases/Connecting SQLite to Java.md",
+    "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
+    "IT/Databases/Connecting SQLite to Java.md",
     "IT/Databases",
     "Telecomms/Pre-Test things.md",
     "Untitled 3.md",

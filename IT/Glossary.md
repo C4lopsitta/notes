@@ -1,4 +1,4 @@
-# Entrypoint
+# EntrypointRemoved unused imports
 The beginning of a program, it **must** be present in every single one of them because it's where the CPU starts executing from. It's accompanied by one or more[^1] ending point.
 
 [^1]: Usually programs have only one entrypoint and one exitpoint but for simplicity reasons we often use more than one
