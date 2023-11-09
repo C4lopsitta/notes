@@ -71,8 +71,8 @@ If `null` is used instead of a value, the automatic value will be used.
   SELECT * FROM table;
   ```
 	Selects everything
-	```SQL
-	SELECT column, column FROM table;
+```SQL
+		SELECT column, column FROM table;
 	```
 	Selects specific columns
 - Where:
@@ -101,3 +101,4 @@ PRAGMA FOREIGN_KEYS = "ON";
 	```sql
 	SELECT table1.*, table2.* FROM table1,table2 WHERE ...;
 	```
+
