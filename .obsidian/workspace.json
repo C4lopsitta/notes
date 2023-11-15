@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Glossary.md",
+                "file": "IT/Databases/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Glossary.md",
+                "file": "IT/Databases/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Glossary.md"
+                "file": "IT/Databases/Databases.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Glossary.md"
+                "file": "IT/Databases/Databases.md"
               }
             }
           },
@@ -226,8 +226,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "049fd3b81385cdba",
+  "active": "92d7a09d0dcc96e6",
   "lastOpenFiles": [
+    "IT/Glossary.md",
     "IT/Databases/Databases.md",
     "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
@@ -237,7 +238,6 @@
     "Untitled 3.md",
     "Telecomms/Lab safety.md",
     "IT/From Code to Execution.md",
-    "IT/Glossary.md",
     "IT/Programming languages.md",
     "Telecomms/Revision 3rd year.md",
     "Untitled 2.md",
