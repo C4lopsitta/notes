@@ -6,3 +6,6 @@ The beginning of a program, it **must** be present in every single one of them b
 A piece of software that runs before the [[#Compiler|compiler]] and runs specific instructions in the code for itself that won't be present in the final program. An example of these precompiler directories are the ones in [[The C programming language|C]] that start with a `#` (*sharp*) and contain conditions, declarations and imports. These instructions actually change the structure of the file for the compiler.
 # Overloading
 When you have multiple methods with the same name but different parameters you do something that is defined as Overloading. Not all programming languages support this.
+
+# ODBC 
+SQL comunicaiton standard
