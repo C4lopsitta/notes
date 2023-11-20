@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Databases/Connecting SQLite to Java.md",
+                "file": "IT/Databases/Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +213,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "92d7a09d0dcc96e6",
+  "active": "2440ad62c75ab15b",
   "lastOpenFiles": [
-    "IT/Glossary.md",
-    "IT/Databases/Databases.md",
     "IT/Databases/Connecting SQLite to Java.md",
+    "IT/Databases/Databases.md",
+    "IT/Glossary.md",
     "IT/Language specific notes/Java.md",
     "IT/Language specific notes/Java Files.md",
     "IT/Databases",
