@@ -9,6 +9,13 @@ To calculate the equivalent resistance of $n$ parallel resistances with differen
 $$
 R_{eq} = \frac{1}{G_{eq}} = \frac{1}{\frac{1}{R_1} + \dots + \frac{1}{R_n}}
 $$
+so by converting the $\frac{1}{R_{n}}$ into a conductance unit it becomes:
+$$
+\begin{cases}
+R_{eq} = \frac{1}{G_1 + \cdots + G_{n}} \\
+\text{where } G_n = \frac{1}{R_n}
+\end{cases}
+$$
 Or with only two resistances:
 $$
 R_{eq} = \frac{R_1 \cdot R_2}{R_1 + R_2}
