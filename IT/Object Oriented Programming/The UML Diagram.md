@@ -95,6 +95,36 @@ class mySubClass {
 mySubClass --|> myClass
 
 ```
+## Other arrows
+```mermaid
+classDiagram
+
+class myClass {
+	- attr: int
+	+ method(): void
+}
+
+class myOtherClass {
+	- attr: String
+}
+
+class arrayList {
+	- idk
+}
+
+myOtherClass --> myClass : methodsUsedFromMyClass()
+
+myOtherClass ..> myClass : instantiatesSoCallsConstructor()
+
+myClass --o arrayList
+
+myOtherClass ..> arrayList : instantiates
+
+```
+
+
+
+
 
 
 [^1]: [[Object Oriented Programming common practices|Common practices in object oriented programming.]] 
