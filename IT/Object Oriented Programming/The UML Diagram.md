@@ -79,6 +79,22 @@ Iface ..|> IfaceImplem
 
 <<Interface>> Iface
 ```
+# Extending / Implementing
+```mermaid
+classDiagram
+
+class myClass {
+	- attr: int
+	+ method(): void
+}
+
+class mySubClass {
+	- attr2: String
+}
+
+mySubClass --|> myClass
+
+```
 
 
 [^1]: [[Object Oriented Programming common practices|Common practices in object oriented programming.]] 

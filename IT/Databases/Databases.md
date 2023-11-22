@@ -101,4 +101,7 @@ PRAGMA FOREIGN_KEYS = "ON";
 	```sql
 	SELECT table1.*, table2.* FROM table1,table2 WHERE ...;
 	```
-
+## DB Relations
+- n..n : many to many 
+- 1..n :  one to many
+- 1..1  : one to one
