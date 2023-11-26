@@ -1,0 +1,5 @@
+# La  Guerra di Successione Polacca
+Durata dal 1733 al 1738 con la **Pace di Vienna**, successivamente alla guerra l'Italia del Sud torna alla spagna che crea un nuovo regno autonomo sotto a **Re Carlo III di Borbone**. In questo periodo l'italia del sud vive un periodo molto fiorente grazie alle politiche illuminate che non si vedono nella madrepatria.
+# La guerra di Successione Austriaca
+Durata dal 1740 al 1748 con la Pace di Aquisgrana.
+Nel 1740 troviamo in Austria la regina **Maria Teresa d'Austria**. La Prussia ottenne la Slesia come compensazione per la *Pragmatica Sanzione* che rese il titolo imperiale ereditario. Con questo nuovo territorio la Prussia divenne una superpotenza ambigua dato che era parte dell'Impero ed era antagonista dell'Austria ma allo stesso tempo parte dei suoi territori non erano parte dell'Impero. A fine 1740 salì al trono **Federico II di Prussia** che seguiva gli ideali Illuminati rendendo la Prussia la potenza economica principale dell'Impero. Federico II abolì la pena di morte e la tortura accogliendo Voltaire nella sua corte.
