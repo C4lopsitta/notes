@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e4216654c38725",
+        "id": "f7a7f09c2429e5eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c609efcbd2f998b0",
+            "id": "b0334ef399e3b62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/dfjklas.md",
+                "file": "History/Storia 2/La situazione inglese.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/dfjklas.md",
+                "file": "History/Storia 2/La situazione inglese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/dfjklas.md",
+                "file": "History/Storia 2/La situazione inglese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/dfjklas.md"
+                "file": "History/Storia 2/La situazione inglese.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "History/dfjklas.md"
+                "file": "History/Storia 2/La situazione inglese.md"
               }
             }
           },
@@ -177,18 +177,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c609efcbd2f998b0",
+  "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
-    "History/Le guerre francesi durante al regno di Luigi XIV.md",
-    "History/L'Assolutismo Francese.md",
-    "History/Il resto d'europa nel periodo Assolutista.md",
+    "History/Storia 1/Storia Capitoli 20 - 21.md",
+    "History/Storia 1/Richelieu e Mazzarino.md",
+    "History/Storia 1/Le guerre francesi durante al regno di Luigi XIV.md",
+    "History/Storia 1/L'Assolutismo Francese.md",
+    "History/Storia 1/Il resto d'europa nel periodo Assolutista.md",
+    "History/Storia 2/La situazione inglese.md",
+    "History/Storia 2",
+    "History/Storia 1",
     "IT/Language specific notes/Java.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "TPSIT/Resource sharing.md",
-    "History/dfjklas.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
     "Telecomms/Pre-Test things.md",
     "IT/Databases/Databases.md",
@@ -204,9 +208,6 @@
     "Obsidian stuff.md",
     "TPSIT/Threads.md",
     "TPSIT/Sockets.md",
-    "TPSIT/Resources in Parallel Processing.md",
-    "TPSIT/Programma TPSIT.md",
-    "History/Untitled",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
     "IT/UMLs",
@@ -214,7 +215,6 @@
     "IT/Etc",
     "IT/Object Oriented Programming",
     "IT/Functional Programming",
-    "IT/Language specific notes",
     "Untitled.canvas"
   ]
 }

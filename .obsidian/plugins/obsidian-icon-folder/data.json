@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Fas2",
+      "Fas1",
       "FabJava",
       "FasDatabase",
-      "FasObjectGroup",
-      "FasLanguage",
-      "FasPlay"
+      "FasObjectGroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,7 @@
   "IT/Object Oriented Programming.md": "FasObjectGroup",
   "IT/Databases": "FasDatabase",
   "IT/Databases/Databases.md": "FasDatabase",
-  "IT/Databases/Connecting SQLite to Java.md": "FabJava"
+  "IT/Databases/Connecting SQLite to Java.md": "FabJava",
+  "History/Storia 1": "Fas1",
+  "History/Storia 2": "Fas2"
 }
