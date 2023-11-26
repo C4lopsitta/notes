@@ -69,6 +69,8 @@ Con l'eliminazione della camera dei comuni fece scoppiare delle rivolte popolari
 # La gloriosa rivoluzione
 I gruppi parlamentari volevano che il re desse al Parlamento il **Potere Legislativo** ma questo non venne concesso. Il parlamento di conseguenza chiamò **Guglielmo III d'Orange**, presidente della Federazione Olandese, di venire in Inghilterra e diventare Re.
 Con questo scoppiò la Gloriosa Rivoluzione inglese nel **1688** con la quale Guglielmo III sale al trono senza violenze e con questa nacque la **[[#The bill of rights|Bill of Rights]]**.
+L'Inghilterra ora sta cercando l'equilibrio dalle guerre economiche e dinastiche che però vengono spesso risolte con mezzi democratici per evitare il dispendio di denaro con gli eserciti.
+Tutte le potenze europee si basano sul [[L'Assolutismo Francese#Colber|mercantilismo]] e puntano ad annettere territori con risorse economiche che possono tornare utili. Il commercio con le colonie divenne essenziale per la ricchezza di uno stato.
 # Il parlamento Inglese
 Il parlamento Inglese ha una struttura bicamerale dopo al **1265**:
 - La camera dei Lord (Camera alta)
