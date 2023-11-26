@@ -41,13 +41,34 @@ Nel **1641** gli irlandesi si rivoltarono perché volevano separarsi dal regno. 
 # La prima rivoluzione Inglese
 La *Prima Rivoluzione Inglese* dura fino al **1649** ed è una rivoluzione civile.
 Il parlamento organizzò un suo esercito organizzato da **Oliver Cromwell**, puritano (quindi parte dei presbiteriani ma più intransigente sulle morali) come la maggior parte delle linee dell'esercito. I puritani venivano detti *Teste Rotonde*.
-Queste vincono e si fanno chiamare la **New Model Army**, in questo esercito c'era la libertà di culto e tutti erano uguali. Dal soldato semplice agli ufficiali tutti condividevano tutto e gli ufficiali venivano scelti per merito. In questo esercito ci sono due gruppi più estremisti:
+Queste vincono e si fanno chiamare la **New Model Army**, in questo esercito c'era la libertà di culto e tutti erano uguali. Dal soldato semplice agli ufficiali tutti condividevano tutto e gli ufficiali venivano scelti per merito. In questo esercito ci sono due gruppi più radicali:
 - I Livellatori
 	  Volevano l'uguaglianza nella società ed abbattere la monarchia per la democrazia con un suffragio maschile universale e l'eliminazione della camera dei lord.
 - Gli Zappatori
 	  Essenzialmente comunisti, volevano l'abolizione della proprietà privata.
 
-
+La prima rivoluzione venne vinta dall'esercito del re ma con la **Battaglia di Mastodon del 164** iniziarono le sconfitte dell'esercito Reale fino al **1648** quando con la vittoria della **battaglia di Princeton**.
+Dopo alla vittoria, Cromwell, fece allontanare tutti i sostenitori del Re dal parlamento ma soprattutto fece catturare *Carlo I* che venne condannato con la decapitazione.
+Con questo, nel **1649** il parlamento è il solo potere nel governo, e **nasce la Repubblica parlamentare** chiamata **commonwealth**.
+## L'infelicità irlandese e scozzese
+Alla Scozia e all'Irlanda non piace essere unite all'Inghilterra e quindi cercano con **Carlo II**, che era il legittimo erede al trono, di organizzare una rivolta contro all'Inghilterra. Cromwell risponde mandando l'esercito contro ai due stati e causa una strage in Irlanda che spinge moltissimi irlandesi nelle colonie americane.
+## La fase dittatoriale
+Ai puritani iniziano a dare fastidio gli Zappatori ed i Livellatori. Cromwell li elimina e si autoproclama come **Lord Protettore del Commonwealth** nel **1653**.
+La dittatura di Cromwell inizia nel **1653** e termina nel **1658** con il ritorno di *Carlo II*.
+In questa fase viene sciolto il Parlamento e Cromwell ha pieno controllo dell'intero Commonwealth. Impone nuovamente censure sulla stampa e pone limiti agli Zappatori ed ai Livellatori. Voleva unificare tutto il regno sotto ad un unica religione.
+Impose un sistema economico protezionista aiutando la Gentry e favorisce le esportazioni. Sottrasse all'Olanda il commercio marino con le compagnie della gentry e la città di *New Amsterdam* che venne rinominata a *New York* con una guerra commerciale.
+Nel **1651** emana un trattato che impose alle colonie di commerciare esclusivamente con la madrepatria Inglese e vietò alle navi estere di attraccare nei porti britannici.
+Nel **1658** morì e con lui morì la dittatura in Inghilterra nonostante il tentativo di Cromwell di renderla ereditaria che venne opposto dal parlamento che si rese autonomo. Il parlamento chiese poi a **Carlo II** di ritornare in Inghilterra come regnante per riportare la Monarchia.
+## I termini del parlamento con il Re
+Con il ritorno del re, venne emanato da lui l'Editto di Perdono che liberò tutti i livellatori e zappatori più estremisti. Emanò successivamente l'**Atto di Uniformità** dichiarando che la Chiesa anglicana fosse la religione di stato e sottoscrisse l'*Habeas Corpus*.
+Queste decisioni appaiono ambigue specialmente data la mancanza di una persecuzione dei non anglicani.
+Sciolse poi il parlamento nonostante la seduta permanente ed iniziò a mostrare atteggiamenti filo cattolici, cosa che causò preoccupazioni nel parlamento. Carlo II voleva instaurare un governo Assolutista a stampo Francese.
+# Giacomo II di Stuart
+Alla morte di Carlo II, salì al trono **Giacomo II di Stuart** (fratello di Carlo II) che cercò di proseguire le politiche di Carlo ma il parlamento si oppose. Giacomo si autodichiarò re e tolse il potere alla camera dei comuni oltre all'atto di uniformità e liberalizzò il cattolicesimo.
+Con l'eliminazione della camera dei comuni fece scoppiare delle rivolte popolari che vennero sedate nel sangue.
+# La gloriosa rivoluzione
+I gruppi parlamentari volevano che il re desse al Parlamento il **Potere Legislativo** ma questo non venne concesso. Il parlamento di conseguenza chiamò **Guglielmo III d'Orange**, presidente della Federazione Olandese, di venire in Inghilterra e diventare Re.
+Con questo scoppiò la Gloriosa Rivoluzione inglese nel **1688** con la quale Guglielmo III sale al trono senza violenze e con questa nacque la **[[#The bill of rights|Bill of Rights]]**.
 # Il parlamento Inglese
 Il parlamento Inglese ha una struttura bicamerale dopo al **1265**:
 - La camera dei Lord (Camera alta)
@@ -60,6 +81,11 @@ I rappresentanti venivano poi convocati dal re. I membri della camera dei Comuni
 2. L'alta borghesia (baroni)
 3. La bassa borghesia
 4. Gli yeomen
+## La suddivisione parlamentare
+Il parlamento era diviso in **Whigs** che sostenevano le libertà costituzionali e **Tories** che sostenevano la monarchia.
 # The bill of rights
-**La bill of Rights** è una limitazione del potere imposta dal Parlamento sul Re. Al posto di avere un parlamento limitato dal Re che ha tutti i tre poteri fondamentali di uno stato, il Parlamento ottiene potere. Di conseguenza il popolo ottiene potere dato che il Parlamento lo rappresenta. Questo documento da il via alla **Monarchia parlamentare**.
-# La gloriosa rivoluzione
+La bill of rights è una costituzione che limita il potere reale dando anche al Parlamento il potere legislativo di conseguenza una legge potrà essere valida solo se veniva validata sia dal re che dal parlamento e le leggi potevano essere proposte da entrambi. Successivamente venne anche dato al parlamento il potere esecutivo.
+Con questa costituzione nasce il primo stato moderno.
+Successivamente venne anche concesso il voto per scegliere i ministri all'interno del parlamento ed il veto parlamentare sulle decisioni dei ministri.
+Inizialmente con la bill of rights venne definito un suffragio in base al censo maschile per evitare di avere un bacino elettorale troppo grande.
+Vennero definiti anche i diritti della **libertà di parola** ed il **diritto di essere giudicati e processati giustamente da un magistrato competente**.
