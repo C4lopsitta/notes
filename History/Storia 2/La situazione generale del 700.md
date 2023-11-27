@@ -36,3 +36,12 @@ Nel 700 avviene un boom demografico che porta ad una crescita economica grazie a
 I nobili ed il clero volevano tornare alla situazione precedente a Luigi XIV, e Filippo diede loro dei privilegi indietro, rovinando le casse di stato.
 Per evitare la bancarotta si affidò a **John Law** che seguì l'idea dei titoli di stato inglesi ed iniziò ad emettere carta moneta senza alcuna garanzia di stato. Istituì inoltre la *Compagnia delle Indie Occidentali* come società per azioni le quali erano però una bolla speculativa. Con queste due azioni portò la Francia ad un passo dalla bancarotta completa e Luigi XV dovette dal **1743** gestire il disastro economico oltre ad i conflitti tra re e parlamento.
 Negli ultimi anni di governo scelse un Primo Ministro, **Moppeaux** che cercò di limitare ulteriormente i poteri parlamentari e fece ripartire l'economia francese con uno stampo capitalista.
+# La situazione Geopolitica Italiana
+## Piemonte e Sardegna
+Savoia -> Catasto e norme antifeduali
+## Lombardia
+Sotto al controllo Austriaco
+# Granducato di Toscana
+Abolisce le antiquate corporazioni che non consentivano la presenza del capitalismo e venne per la prima volta nella storia abolita la pena di morte.
+## Sud Italia e Napoli
+Troviamo i Borbone che riducono i privilegi ecclesiastici ed instaurano molte università rendendo la regione un luogo di cultura che non segue però i consigli illuministi.

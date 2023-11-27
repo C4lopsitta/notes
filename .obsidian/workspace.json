@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Storia 2/I regnanti Illuminati.md",
+                "file": "History/Storia 2/La Prima Rivoluzione Industriale.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Storia 2/I regnanti Illuminati.md",
+                "file": "History/Storia 2/La Prima Rivoluzione Industriale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Storia 2/I regnanti Illuminati.md",
+                "file": "History/Storia 2/La Prima Rivoluzione Industriale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Storia 2/I regnanti Illuminati.md"
+                "file": "History/Storia 2/La Prima Rivoluzione Industriale.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "History/Storia 2/I regnanti Illuminati.md"
+                "file": "History/Storia 2/La Prima Rivoluzione Industriale.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
     "History/Storia 2/Le correnti del 700.md",
-    "History/Storia 2/La situazione generale del 700.md",
+    "History/Storia 2/La Prima Rivoluzione Industriale.md",
     "History/Storia 2/I regnanti Illuminati.md",
+    "History/Storia 2/La situazione generale del 700.md",
     "History/Storia 1/L'Assolutismo Francese.md",
     "History/Storia 2/La situazione inglese.md",
     "History/Storia 2/La situazione Italiana.md",
@@ -207,7 +208,6 @@
     "IT/Glossary.md",
     "IT/Language specific notes/Java Files.md",
     "IT/Databases",
-    "Telecomms/Lab safety.md",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
     "IT/UMLs",
