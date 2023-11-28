@@ -42,4 +42,4 @@ CHECK ON BOOK PAGE 14
 ## Common memory area cooperation
 This ancient method of inter process communication works by declaring a memory area that can be used by multiple processes so that both can read or write on that memory area.
 This is not a good idea.
-
+# Domain and Rank
