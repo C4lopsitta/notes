@@ -218,3 +218,6 @@ A constructor that on fail doesn't throw an error.
 
 # Singlet
 Only one instance is allowed of that class at all times.
+
+# Inversione di controllo
+Essenzialmente qualcosa sveglia qualcos'altro in un evento

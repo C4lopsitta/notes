@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPSIT/Resources in Parallel Processing.md",
+                "file": "IT/Java Swing/Java Swing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPSIT/Resources in Parallel Processing.md",
+                "file": "IT/Java Swing/Java Swing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TPSIT/Resources in Parallel Processing.md",
+                "file": "IT/Java Swing/Java Swing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TPSIT/Resources in Parallel Processing.md"
+                "file": "IT/Java Swing/Java Swing.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TPSIT/Resources in Parallel Processing.md"
+                "file": "IT/Java Swing/Java Swing.md"
               }
             }
           },
@@ -179,13 +179,16 @@
   },
   "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
+    "IT/Language specific notes/Java.md",
+    "IT/Java Swing/Java Swing.md",
+    "TPSIT/Resources in Parallel Processing.md",
+    "IT/Java Swing",
     "TPSIT/Sockets.md",
     "TPSIT/Threads.md",
     "TPSIT/Processes.md",
     "Telecomms/Pre-Test things.md",
     "Telecomms/Lab safety.md",
     "Telecomms/Harduino Project.md",
-    "IT/Language specific notes/Java.md",
     "History/Storia 2/La situazione generale del 700.md",
     "History/Storia 2/Le correnti del 700.md",
     "History/Storia 2/La Prima Rivoluzione Industriale.md",
@@ -205,8 +208,6 @@
     "Untitled 3.md",
     "TPSIT/Resource sharing.md",
     "IT/Object Oriented Programming/The UML Diagram.md",
-    "IT/Databases/Databases.md",
-    "Fullpage OS.md",
     "IT/Databases",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
@@ -214,7 +215,6 @@
     "IT/Language specific notes/C",
     "IT/Etc",
     "IT/Object Oriented Programming",
-    "IT/Functional Programming",
     "Untitled.canvas"
   ]
 }

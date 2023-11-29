@@ -1,0 +1,7 @@
+# Desktop application
+A Desktop Application is a program. Java has **AWT** as a standard graphics library to draw on screen. Over AWT there is **Swing**.
+All Swing widgets are *jsomething* (*jbutton*, *jradio*, ...) that are simply defined as **JComponent**.
+
+# Widgets
+## JFrame
+A *jframe* simply is a Frame with window decorations that then contains other widgets.
