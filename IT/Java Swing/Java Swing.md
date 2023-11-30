@@ -13,6 +13,21 @@ FlowLayout positions elements one after the other in a linear manner.
 # Widgets
 ## JFrame
 A *jframe* simply is a Frame with window decorations that then contains other widgets.
+## JButton
+A *jbutton* is a button
+```java
+new JButton("button text");
+```
+## JLabel
+A *jlabel* is a label
+```Java
+new JLabel("label text");
+```
+## JPanel
+A *jpanel* is a Layout Holder
+```Java
+new JPanel(new LAYOUT());
+```
 
 # Threads
 A thread in java is managed through the `Thread` object
