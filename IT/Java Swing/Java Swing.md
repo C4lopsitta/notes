@@ -5,3 +5,8 @@ All Swing widgets are *jsomething* (*jbutton*, *jradio*, ...) that are simply de
 # Widgets
 ## JFrame
 A *jframe* simply is a Frame with window decorations that then contains other widgets.
+
+# Threads
+A thread in java is managed through the `Thread` object
+## Runnable
+Runnable is an interface that simplifies the uses of threads. It's essentially a thread reduced to minimum terms.
