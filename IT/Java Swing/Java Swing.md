@@ -28,6 +28,10 @@ A *jpanel* is a Layout Holder
 ```Java
 new JPanel(new LAYOUT());
 ```
+## JTextField
+I think you can figure it out yourself
+## JComboBox
+
 
 # Threads
 A thread in java is managed through the `Thread` object
