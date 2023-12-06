@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md",
+                "file": "Telecomms/Diode.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md",
+                "file": "Telecomms/Diode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md",
+                "file": "Telecomms/Diode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md"
+                "file": "Telecomms/Diode.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md"
+                "file": "Telecomms/Diode.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
-    "IT/Language specific notes/Java.md",
     "IT/Java Swing/Java Swing.md",
+    "Telecomms/Diode.md",
+    "IT/Language specific notes/Java.md",
     "TPSIT/Resources in Parallel Processing.md",
     "IT/Java Swing",
     "TPSIT/Sockets.md",
@@ -207,7 +208,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "TPSIT/Resource sharing.md",
-    "IT/Object Oriented Programming/The UML Diagram.md",
     "IT/Databases",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
