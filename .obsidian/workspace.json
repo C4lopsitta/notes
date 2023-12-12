@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md",
+                "file": "Systems and Networks/Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d39d4b9f3effe94",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md",
+                "file": "Systems and Networks/Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md",
+                "file": "Systems and Networks/Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md"
+                "file": "Systems and Networks/Graph.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Java Swing/Java Swing.md"
+                "file": "Systems and Networks/Graph.md"
               }
             }
           },
@@ -179,8 +180,9 @@
   },
   "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
-    "Telecomms/Diode.md",
     "IT/Java Swing/Java Swing.md",
+    "Systems and Networks/Graph.md",
+    "Telecomms/Diode.md",
     "IT/Language specific notes/Java.md",
     "TPSIT/Resources in Parallel Processing.md",
     "IT/Java Swing",
@@ -207,7 +209,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "TPSIT/Resource sharing.md",
     "IT/Databases",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
