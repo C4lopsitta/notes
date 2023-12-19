@@ -19,3 +19,4 @@ $$
 R >= \frac{5V - 2V}{(16mA\space to\space 32mA)}
 $$
 Because the A changes depending on the color of the led. Usually on *thinkercad* is *20mA* and it's the current limit.
+Relazione di Tel

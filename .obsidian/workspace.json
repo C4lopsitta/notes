@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomms/Relazione Telecomms.md",
+                "file": "Telecomms/Diode.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomms/Relazione Telecomms.md",
+                "file": "Telecomms/Diode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomms/Relazione Telecomms.md",
+                "file": "Telecomms/Diode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomms/Relazione Telecomms.md"
+                "file": "Telecomms/Diode.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Telecomms/Relazione Telecomms.md"
+                "file": "Telecomms/Diode.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
-    "Italian/Untitled.md",
     "Telecomms/Relazione Telecomms.md",
+    "Italian/Untitled.md",
     "IT/Databases/Databases.md",
     "Systems and Networks/Graph.md",
     "IT/Java Swing/Java Swing.md",
