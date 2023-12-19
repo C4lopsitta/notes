@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Databases/Databases.md",
+                "file": "Italian/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Databases/Databases.md",
+                "file": "Italian/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Databases/Databases.md",
+                "file": "Italian/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Databases/Databases.md"
+                "file": "Italian/Untitled.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT/Databases/Databases.md"
+                "file": "Italian/Untitled.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
+    "IT/Databases/Databases.md",
+    "Italian/Untitled.md",
     "Systems and Networks/Graph.md",
     "IT/Java Swing/Java Swing.md",
     "Telecomms/Diode.md",
@@ -206,8 +208,6 @@
     "History/Storia 1",
     "Untitled.md",
     "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
     "IT/Databases",
     "Recording 20231003120612.webm",
     "Recording 20230926131111.webm",
