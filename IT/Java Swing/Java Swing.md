@@ -36,3 +36,13 @@ I think you can figure it out yourself
 A thread in java is managed through the `Thread` object
 ## Runnable
 Runnable is an interface that simplifies the uses of threads. It's essentially a thread reduced to minimum terms.
+
+
+# Listeners
+## OnClickListener
+
+## WindowListener
+On the JFrame, it reacts to window events such as *minimize*, *close*, etc.
+It can be used when you close the window to show, for example, a confirmation popup before closing.
+## DocumentListener
+It reacts to events that happen inside a *JComponent*. This intercepts events such as setFocus, lostFocus, etc...

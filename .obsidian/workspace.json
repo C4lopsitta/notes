@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomms/Diode.md",
+                "file": "IT/Java Swing/Java Swing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomms/Diode.md",
+                "file": "IT/Java Swing/Java Swing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomms/Diode.md",
+                "file": "IT/Java Swing/Java Swing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomms/Diode.md"
+                "file": "IT/Java Swing/Java Swing.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Telecomms/Diode.md"
+                "file": "IT/Java Swing/Java Swing.md"
               }
             }
           },
@@ -177,14 +177,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b0334ef399e3b62b",
+  "active": "2440ad62c75ab15b",
   "lastOpenFiles": [
+    "Telecomms/Diode.md",
     "Telecomms/Relazione Telecomms.md",
     "Italian/Untitled.md",
     "IT/Databases/Databases.md",
     "Systems and Networks/Graph.md",
     "IT/Java Swing/Java Swing.md",
-    "Telecomms/Diode.md",
     "IT/Language specific notes/Java.md",
     "TPSIT/Resources in Parallel Processing.md",
     "IT/Java Swing",
