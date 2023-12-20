@@ -46,3 +46,7 @@ On the JFrame, it reacts to window events such as *minimize*, *close*, etc.
 It can be used when you close the window to show, for example, a confirmation popup before closing.
 ## DocumentListener
 It reacts to events that happen inside a *JComponent*. This intercepts events such as setFocus, lostFocus, etc...
+
+# Menu
+## JMenu
+### JItem
