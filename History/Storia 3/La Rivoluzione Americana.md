@@ -95,7 +95,5 @@ CITIZENS --"eleggono"--> SENATE
 
 ```
 Per quanto l'America sia il primo stato moderno, non vi è una completa democrazia dato che le donne e le minoranze etniche non avevano voce in capitolo in fatti statali.
-## La dichiarazione d'indipendenza
-
 
 [^1]: Confederazione: Stati indipendenti uniti solo formalmente

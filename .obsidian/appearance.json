@@ -2,8 +2,7 @@
   "accentColor": "",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
   "textFontFamily": "",
-  "enabledCssSnippets": [
-    "css"
-  ],
-  "baseFontSize": 15
+  "enabledCssSnippets": [],
+  "baseFontSize": 15,
+  "theme": "obsidian"
 }
