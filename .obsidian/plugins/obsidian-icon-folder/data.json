@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Fas3",
       "FarWindowRestore",
       "Fas2",
       "Fas1",
-      "FabJava",
-      "FasDatabase"
+      "FabJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "IT/Databases/Connecting SQLite to Java.md": "FabJava",
   "History/Storia 1": "Fas1",
   "History/Storia 2": "Fas2",
-  "IT/Java Swing": "FarWindowRestore"
+  "IT/Java Swing": "FarWindowRestore",
+  "History/Storia 3": "Fas3"
 }
