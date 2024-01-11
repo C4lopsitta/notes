@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Storia 3/La Rivoluzione Americana.md",
+                "file": "History/Storia 3/La Rivoluzione Francese.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Storia 3/La Rivoluzione Americana.md",
+                "file": "History/Storia 3/La Rivoluzione Francese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Storia 3/La Rivoluzione Americana.md",
+                "file": "History/Storia 3/La Rivoluzione Francese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Storia 3/La Rivoluzione Americana.md"
+                "file": "History/Storia 3/La Rivoluzione Francese.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "History/Storia 3/La Rivoluzione Americana.md"
+                "file": "History/Storia 3/La Rivoluzione Francese.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2440ad62c75ab15b",
+  "active": "b0334ef399e3b62b",
   "lastOpenFiles": [
-    "History/Storia 3/La Rivoluzione Francese.md",
     "History/Storia 3/La Rivoluzione Americana.md",
+    "History/Storia 3/La Rivoluzione Francese.md",
     "History/Storia 1/L'Assolutismo Francese.md",
     "History/Storia 1/Le guerre francesi durante al regno di Luigi XIV.md",
     "History/Storia 1/Richelieu e Mazzarino.md",

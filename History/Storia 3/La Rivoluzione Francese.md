@@ -44,3 +44,6 @@ Scoppio questa rivoluzione e si espanse nelle altre città, che copiarono il mod
 # La nuova costituzione
 La costituzione che stava venendo scritta, era a modello di quella americana. Vennero però inoltre scritti i diritti ed doveri dei cittadini. Istituirono anche tasse sulla proprietà privata. Tutti i cittadini e gli uomini avrebbero avuto diritti ma oltre a questi dei doveri. Le tasse vennero legati alla proprietà posseduta.
 
+Per approvare e rendere valida questa costituzione, serviva l'autorizzazione del Re, che però non la ratificò. Il popolo iniziò a premere contro al re e notano che i nobili stanno scappando dalla francia. Ad Ottobre il popolo assalì il palazzo di Versailles e riportò il Re a Parigi, obbligandolo a rimanere e a farlo sfilare in città.
+
+Il popolo voleva la democrazia diretta, non più la monarchia costituzionale.
